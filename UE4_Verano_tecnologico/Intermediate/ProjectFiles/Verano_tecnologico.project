@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="Verano_tecnologico">
+  <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" />
+  <VirtualDirectory Name="Source">
+    <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico.Target.cs" />
+    <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologicoEditor.Target.cs" />
+    <VirtualDirectory Name="Verano_tecnologico">
+      <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico/Verano_tecnologico.Build.cs" />
+      <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico/Verano_tecnologico.cpp" />
+      <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico/Verano_tecnologico.h" />
+      <VirtualDirectory Name="Private">
+        <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico/Private/Deck.cpp" />
+      </VirtualDirectory>
+      <VirtualDirectory Name="Public">
+        <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico/Public/Deck.h" />
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Config">
+    <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Config/DefaultEditor.ini" />
+    <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Config/DefaultEngine.ini" />
+    <File Name="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Config/DefaultGame.ini" />
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General CommandArguments=" -debug" WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-Debug" />
+      <General CommandArguments=" -debug" WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe Verano_tecnologico Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+        <Target Name="Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Debug -serverconfig=Debug -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cook</Target>
+        <Target Name="Cook Game on the fly">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Debug -serverconfig=Debug -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cookonthefly</Target>
+        <Target Name="Skip Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Debug -serverconfig=Debug -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -skipcook</Target>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General CommandArguments=" -debug" WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-DebugGame" />
+      <General CommandArguments=" -debug" WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe Verano_tecnologico Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+        <Target Name="Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=DebugGame -serverconfig=DebugGame -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cook</Target>
+        <Target Name="Cook Game on the fly">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=DebugGame -serverconfig=DebugGame -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cookonthefly</Target>
+        <Target Name="Skip Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=DebugGame -serverconfig=DebugGame -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -skipcook</Target>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico" />
+      <General WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe Verano_tecnologico Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+        <Target Name="Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Development -serverconfig=Development -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cook</Target>
+        <Target Name="Cook Game on the fly">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Development -serverconfig=Development -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cookonthefly</Target>
+        <Target Name="Skip Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Development -serverconfig=Development -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -skipcook</Target>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-Shipping" />
+      <General WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe Verano_tecnologico Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+        <Target Name="Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Shipping -serverconfig=Shipping -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cook</Target>
+        <Target Name="Cook Game on the fly">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Shipping -serverconfig=Shipping -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cookonthefly</Target>
+        <Target Name="Skip Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Shipping -serverconfig=Shipping -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -skipcook</Target>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-Test" />
+      <General WorkingDirectory="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux" Command="./Verano_tecnologico-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe Verano_tecnologico Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe Verano_tecnologico Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+        <Target Name="Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Test -serverconfig=Test -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cook</Target>
+        <Target Name="Cook Game on the fly">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Test -serverconfig=Test -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -cookonthefly</Target>
+        <Target Name="Skip Cook Game">mono AutomationTool.exe BuildCookRun -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -noP4 -nokill -clientconfig=Test -serverconfig=Test -platform=Linux -targetplatform=Linux -nocompile -compressed -stage -deploy -skipcook</Target>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

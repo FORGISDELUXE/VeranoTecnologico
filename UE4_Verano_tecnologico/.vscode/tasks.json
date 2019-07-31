@@ -1,0 +1,1710 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Verano_tecnologico Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Mac Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Mac Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Mac Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Mac",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico IOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"IOS",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico HTML5 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico HTML5 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico HTML5 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico HTML5 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico HTML5 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico HTML5 Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"HTML5",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Linux Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Linux DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Linux Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Linux Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico Linux Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico Linux Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"Linux",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico TVOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico TVOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico TVOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico TVOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Shipping",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologico TVOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologico TVOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologico",
+				"TVOS",
+				"Test",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologicoEditor Linux Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologicoEditor Linux DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologicoEditor Linux Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Linux Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Linux",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologicoEditor Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"Debug",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologicoEditor Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"DebugGame",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Verano_tecnologicoEditor Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		},
+		{
+			"label": "Verano_tecnologicoEditor Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Verano_tecnologicoEditor",
+				"Mac",
+				"Development",
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+			}
+		}
+	]
+}

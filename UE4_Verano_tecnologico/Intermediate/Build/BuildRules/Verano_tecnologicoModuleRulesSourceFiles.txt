@@ -1,0 +1,3 @@
+/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico/Verano_tecnologico.Build.cs
+/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologico.Target.cs
+/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Source/Verano_tecnologicoEditor.Target.cs

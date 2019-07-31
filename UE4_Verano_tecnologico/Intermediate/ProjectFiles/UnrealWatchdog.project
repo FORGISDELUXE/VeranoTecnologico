@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="UnrealWatchdog">
+  <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/UnrealWatchdog.Target.cs" />
+  <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/UnrealWatchdog.Build.cs" />
+  <VirtualDirectory Name="Private">
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/UnrealWatchdog.cpp" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/UnrealWatchdog.h" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/WatchdogAnalytics.cpp" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/WatchdogAnalytics.h" />
+    <VirtualDirectory Name="Linux">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/Linux/UnrealWatchdogMainLinux.cpp" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Mac">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/Mac/UnrealWatchdogMainMac.cpp" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Windows">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealWatchdog/Private/Windows/UnrealWatchdogMainWindows.cpp" />
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-Debug" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealWatchdog Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-DebugGame" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealWatchdog Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealWatchdog Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-Shipping" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealWatchdog Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-Test" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealWatchdog-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealWatchdog Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealWatchdog Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

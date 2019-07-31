@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="UnrealFrontend">
+  <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/UnrealFrontend.Target.cs" />
+  <VirtualDirectory Name="Config">
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Programs/UnrealFrontend/Config/DefaultEngine.ini" />
+  </VirtualDirectory>
+  <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/UnrealFrontend.Build.cs" />
+  <VirtualDirectory Name="Private">
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/UnrealFrontendMain.cpp" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/UnrealFrontendMain.h" />
+    <VirtualDirectory Name="Commands">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/DeployCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/DeployCommand.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/LaunchCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/LaunchCommand.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/LaunchFromProfileCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/LaunchFromProfileCommand.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/PackageCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/PackageCommand.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/StatsConvertCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/StatsConvertCommand.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/StatsDumpMemoryCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/StatsDumpMemoryCommand.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/UserInterfaceCommand.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Commands/UserInterfaceCommand.h" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Linux">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Linux/LinuxUnrealFrontendMain.cpp" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Mac">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Mac/MacUnrealFrontendMain.cpp" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Windows">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealFrontend/Private/Windows/WindowsUnrealFrontendMain.cpp" />
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-Debug" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealFrontend Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-DebugGame" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealFrontend Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealFrontend Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealFrontend Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-Shipping" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealFrontend Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-Test" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealFrontend-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealFrontend Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealFrontend Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

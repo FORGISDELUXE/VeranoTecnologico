@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="MayaLiveLinkPlugin2017">
+  <VirtualDirectory Name="ts">
+    <VirtualDirectory Name="UE4">
+      <VirtualDirectory Name="UnrealEngine-4.22">
+        <VirtualDirectory Name="Engine">
+          <VirtualDirectory Name="Source">
+            <VirtualDirectory Name="Programs">
+              <VirtualDirectory Name="MayaLiveLinkPlugin">
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin2017.Target.cs" />
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin.cpp" />
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin2016.Build.cs" />
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin2016.Target.cs" />
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin2017.Build.cs" />
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin2018.Build.cs" />
+                <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/MayaLiveLinkPlugin/MayaLiveLinkPlugin2018.Target.cs" />
+              </VirtualDirectory>
+            </VirtualDirectory>
+          </VirtualDirectory>
+        </VirtualDirectory>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-Debug" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-DebugGame" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-Shipping" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-Test" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./MayaLiveLinkPlugin2017-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe MayaLiveLinkPlugin2017 Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

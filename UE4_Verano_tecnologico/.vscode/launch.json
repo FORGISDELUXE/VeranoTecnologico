@@ -1,0 +1,104 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Verano_tecnologico (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Debug Build",
+			"program": "/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux/Verano_tecnologico-Linux-Debug",
+			"args": [
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux DebugGame Build",
+			"program": "/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux/Verano_tecnologico-Linux-DebugGame",
+			"args": [
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (Development)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Development Build",
+			"program": "/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux/Verano_tecnologico",
+			"args": [
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Shipping Build",
+			"program": "/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux/Verano_tecnologico-Linux-Shipping",
+			"args": [
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (Test)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Test Build",
+			"program": "/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux/Verano_tecnologico-Linux-Test",
+			"args": [
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologicoEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologicoEditor Linux Debug Build",
+			"program": "/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
+			"args": [
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologicoEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologicoEditor Linux DebugGame Build",
+			"program": "/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologicoEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologicoEditor Linux Development Build",
+			"program": "/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"
+			],
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "mono",
+			"request": "launch",
+			"program": "/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+			"console": "internalConsole",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "/home/alvaare/Documents/UE4/UnrealEngine-4.22"
+		}
+	]
+}

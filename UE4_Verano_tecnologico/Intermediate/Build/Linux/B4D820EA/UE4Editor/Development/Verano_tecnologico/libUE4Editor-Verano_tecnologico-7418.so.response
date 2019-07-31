@@ -1,0 +1,7 @@
+"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/Verano_tecnologico/Deck.cpp.o"
+"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/Verano_tecnologico/Verano_tecnologico.cpp.o"
+ -soname="libUE4Editor-Verano_tecnologico-7418.so"
+ -rpath-link="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Binaries/Linux"
+ -L"/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux"
+ --start-group
+ --end-group

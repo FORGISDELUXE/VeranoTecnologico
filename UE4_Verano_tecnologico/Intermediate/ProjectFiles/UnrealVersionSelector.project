@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="UnrealVersionSelector">
+  <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/UnrealVersionSelector.Target.cs" />
+  <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/UnrealVersionSelector.Build.cs" />
+  <VirtualDirectory Name="Private">
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/PlatformInstallation.cpp" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/PlatformInstallation.h" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/UnrealVersionSelector.cpp" />
+    <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/UnrealVersionSelector.h" />
+    <VirtualDirectory Name="GenericPlatform">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/GenericPlatform/GenericPlatformInstallation.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/GenericPlatform/GenericPlatformInstallation.h" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Linux">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/Linux/LinuxPlatformInstallation.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/Linux/LinuxPlatformInstallation.h" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/Linux/UnrealVersionSelectorLinuxMain.cpp" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Windows">
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/Windows/WindowsPlatformInstallation.cpp" />
+      <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/Windows/WindowsPlatformInstallation.h" />
+      <VirtualDirectory Name="Resources">
+        <File Name="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Source/Programs/UnrealVersionSelector/Private/Windows/Resources/Resource.h" />
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-Debug" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealVersionSelector Linux Debug -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-DebugGame" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealVersionSelector Linux DebugGame -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealVersionSelector Linux Development -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-Shipping" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealVersionSelector Linux Shipping -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-Test" />
+      <General WorkingDirectory="/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/Linux" Command="./UnrealVersionSelector-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/alvaare/Documents/UE4/UnrealEngine-4.22/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealVersionSelector Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealVersionSelector Linux Test -project="/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>
