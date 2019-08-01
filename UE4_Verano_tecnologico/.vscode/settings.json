@@ -1,9 +1,0 @@
-{
-	"files.exclude": {
-		"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/.vscode": true,
-		"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Content": true,
-		"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/DerivedDataCache": true,
-		"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Intermediate": true,
-		"/home/alvaare/Documents/Unreal Projects/Verano_tecnologico/Saved": true
-	}
-}
