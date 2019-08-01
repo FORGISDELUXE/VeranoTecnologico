@@ -1,0 +1,7 @@
+"/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/Verano_tecnologico/Deck.cpp.o"
+"/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/UE4Editor/Development/Verano_tecnologico/Verano_tecnologico.cpp.o"
+ -soname="libUE4Editor-Verano_tecnologico.so"
+ -rpath-link="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Binaries/Linux"
+ -L"/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux"
+ --start-group
+ --end-group

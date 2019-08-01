@@ -1,0 +1,104 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Verano_tecnologico (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Debug Build",
+			"program": "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Binaries/Linux/Verano_tecnologico-Linux-Debug",
+			"args": [
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux DebugGame Build",
+			"program": "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Binaries/Linux/Verano_tecnologico-Linux-DebugGame",
+			"args": [
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (Development)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Development Build",
+			"program": "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Binaries/Linux/Verano_tecnologico",
+			"args": [
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Shipping Build",
+			"program": "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Binaries/Linux/Verano_tecnologico-Linux-Shipping",
+			"args": [
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologico (Test)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologico Linux Test Build",
+			"program": "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Binaries/Linux/Verano_tecnologico-Linux-Test",
+			"args": [
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologicoEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologicoEditor Linux Debug Build",
+			"program": "/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
+			"args": [
+				"/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologicoEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologicoEditor Linux DebugGame Build",
+			"program": "/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Verano_tecnologicoEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "Verano_tecnologicoEditor Linux Development Build",
+			"program": "/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux/UE4Editor",
+			"args": [
+				"/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"
+			],
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "mono",
+			"request": "launch",
+			"program": "/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+			"console": "internalConsole",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "/home/jorge/Descargas/Paquetes/UnrealEngine"
+		}
+	]
+}

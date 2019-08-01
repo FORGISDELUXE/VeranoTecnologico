@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="LiveCodingConsole">
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/LiveCodingConsole.Target.cs" />
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/LiveCodingConsole.Build.cs" />
+  <VirtualDirectory Name="Private">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/LiveCodingConsole.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/LiveCodingConsole.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/LiveCodingConsoleStyle.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/LiveCodingConsoleStyle.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/LiveCodingManifest.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/LiveCodingManifest.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/SLogWidget.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/LiveCodingConsole/Private/SLogWidget.h" />
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-Debug" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe LiveCodingConsole Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-DebugGame" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe LiveCodingConsole Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe LiveCodingConsole Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-Shipping" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe LiveCodingConsole Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-Test" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./LiveCodingConsole-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe LiveCodingConsole Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe LiveCodingConsole Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

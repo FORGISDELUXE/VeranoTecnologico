@@ -1,0 +1,1419 @@
+﻿Log file open, 08/01/19 10:41:10
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Verano_tecnologico
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.115467
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogInit: Using libcurl 7.48.0-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: Build: ++UE4+Release-4.22-CL-0
+LogInit: Engine Version: 4.22.3-0+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-0+++UE4+Release-4.22
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Jul 31 2019 22:42:31
+LogInit: Compiled with Clang: 7.0.1 (tags/RELEASE_701/final)
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: /home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[r.RHICmdBypass:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.01-15.41.12:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:064][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:064][  0]LogInit: Initializing SDL.
+[2019.08.01-15.41.12:097][  0]LogInit: Initialized SDL 2.0.8 revision: 11184 (hg-12121:4358e537000a with EpicExtensions) (compiled against 2.0.8)
+[2019.08.01-15.41.12:097][  0]LogInit: Using SDL video driver 'x11'
+[2019.08.01-15.41.12:109][  0]LogInit: Display metrics:
+[2019.08.01-15.41.12:109][  0]LogInit:   PrimaryDisplayWidth: 1920
+[2019.08.01-15.41.12:109][  0]LogInit:   PrimaryDisplayHeight: 1080
+[2019.08.01-15.41.12:109][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2019.08.01-15.41.12:109][  0]LogInit:     Left=0, Top=27, Right=1920, Bottom=1080
+[2019.08.01-15.41.12:109][  0]LogInit:   VirtualDisplayRect:
+[2019.08.01-15.41.12:109][  0]LogInit:     Left=0, Top=27, Right=1920, Bottom=1080
+[2019.08.01-15.41.12:109][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2019.08.01-15.41.12:109][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2019.08.01-15.41.12:109][  0]LogInit:   Number of monitors: 1
+[2019.08.01-15.41.12:109][  0]LogInit:     Monitor 0
+[2019.08.01-15.41.12:109][  0]LogInit:       Name: 0
+[2019.08.01-15.41.12:109][  0]LogInit:       ID: display0
+[2019.08.01-15.41.12:109][  0]LogInit:       NativeWidth: 1920
+[2019.08.01-15.41.12:109][  0]LogInit:       NativeHeight: 1080
+[2019.08.01-15.41.12:109][  0]LogInit:       bIsPrimary: true
+[2019.08.01-15.41.12:110][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-15.41.12:110][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-15.41.12:111][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-15.41.12:111][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:111][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-15.41.12:111][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-15.41.12:111][  0]LogLinux: Selected Device Profile: [Linux]
+[2019.08.01-15.41.12:111][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2019.08.01-15.41.12:120][  0]LogHAL: Display: Platform has ~ 4 GB [8123019264 / 4294967296 / 8], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.01-15.41.12:120][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.01-15.41.12:120][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:120][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-15.41.12:120][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-15.41.12:120][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:120][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.01-15.41.12:121][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-15.41.12:121][  0]LogConfig: Setting CVar [[g.TimeoutForBlockOnRenderFence:60000]]
+[2019.08.01-15.41.12:122][  0]LogInit: Unix hardware info:
+[2019.08.01-15.41.12:122][  0]LogInit:  - we are the first instance of this executable
+[2019.08.01-15.41.12:122][  0]LogInit:  - this process' id (pid) is 4960, parent process' id (ppid) is 1148
+[2019.08.01-15.41.12:122][  0]LogInit:  - we are not running under debugger
+[2019.08.01-15.41.12:122][  0]LogInit:  - machine network name is 'Forgis'
+[2019.08.01-15.41.12:122][  0]LogInit:  - user name is 'jorge' (jorge)
+[2019.08.01-15.41.12:122][  0]LogInit:  - we're logged in locally
+[2019.08.01-15.41.12:122][  0]LogInit:  - we're running with rendering
+[2019.08.01-15.41.12:122][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz' (signature: 0x806EA)
+[2019.08.01-15.41.12:122][  0]LogInit:  - Number of physical cores available for the process: 4
+[2019.08.01-15.41.12:122][  0]LogInit:  - Number of logical cores available for the process: 8
+[2019.08.01-15.41.12:122][  0]LogInit:  - Cache line size: 64
+[2019.08.01-15.41.12:122][  0]LogInit:  - Memory allocator used: binned2
+[2019.08.01-15.41.12:122][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2019.08.01-15.41.12:122][  0]LogCore: Benchmarking clocks:
+[2019.08.01-15.41.12:122][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 20295122 (20295K, 20M) calls per second without zero deltas.
+[2019.08.01-15.41.12:122][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 1682121 (1682K, 2M) calls per second without zero deltas.
+[2019.08.01-15.41.12:122][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 92624853 (92625K, 93M) calls per second with 99.999719% zero deltas.
+[2019.08.01-15.41.12:122][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2019.08.01-15.41.12:122][  0]LogInit: Unix-specific commandline switches:
+[2019.08.01-15.41.12:122][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2019.08.01-15.41.12:122][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2019.08.01-15.41.12:122][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2019.08.01-15.41.12:122][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2019.08.01-15.41.12:122][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2019.08.01-15.41.12:122][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2019.08.01-15.41.12:122][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2019.08.01-15.41.12:122][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2019.08.01-15.41.12:122][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2019.08.01-15.41.12:122][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2019.08.01-15.41.12:122][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2019.08.01-15.41.12:122][  0]LogInit:  - Physical RAM available (not considering process quota): 8 GB (7746 MB, 7932636 KB, 8123019264 bytes)
+[2019.08.01-15.41.12:122][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2019.08.01-15.41.12:122][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2019.08.01-15.41.12:323][  0]LogInit: Using OS detected language (es-ES).
+[2019.08.01-15.41.12:323][  0]LogInit: Using OS detected locale (es-ES).
+[2019.08.01-15.41.12:323][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.08.01-15.41.12:478][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.01-15.41.12:478][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.01-15.41.13:388][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2019.08.01-15.41.13:393][  0]LogRHI: Initializing OpenGL RHI
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_VENDOR: Intel Open Source Technology Center
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_RENDERER: Mesa DRI Intel(R) Kabylake GT1.5 
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_VERSION: 4.5 (Core Profile) Mesa 13.0.6
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.50
+[2019.08.01-15.41.13:393][  0]LogRHI: OpenGL Extensions:
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_3DFX_texture_compression_FXT1
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_conservative_depth
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_draw_buffers_blend
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_shader_stencil_export
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_shader_trinary_minmax
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_vertex_shader_layer
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_AMD_vertex_shader_viewport_index
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ANGLE_texture_compression_dxt3
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ANGLE_texture_compression_dxt5
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_APPLE_object_purgeable
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_ES3_2_compatibility
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_base_instance
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_blend_func_extended
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_buffer_storage
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_clear_texture
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_clip_control
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_compute_shader
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_conservative_depth
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_copy_buffer
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_copy_image
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_cull_distance
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_debug_output
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_depth_clamp
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_derivative_control
+[2019.08.01-15.41.13:393][  0]LogRHI:   GL_ARB_direct_state_access
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_draw_buffers
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_draw_indirect
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_draw_instanced
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_fragment_shader
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_framebuffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_get_program_binary
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_gpu_shader5
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_half_float_pixel
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_half_float_vertex
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_instanced_arrays
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_internalformat_query
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_internalformat_query2
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_map_buffer_range
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_multi_bind
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_occlusion_query2
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_point_sprite
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_program_interface_query
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_provoking_vertex
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_query_buffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_robustness
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_sample_shading
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_sampler_objects
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_atomic_counter_ops
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_clock
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_draw_parameters
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_image_size
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_objects
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_precision
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_stencil_export
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_subroutine
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shader_viewport_layer_array
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_shading_language_packing
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_stencil_texturing
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_sync
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_tessellation_shader
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_barrier
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_float
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_gather
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_multisample
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_query_levels
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_query_lod
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_rectangle
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_rg
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_stencil8
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_storage
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_swizzle
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_texture_view
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_timer_query
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_transform_feedback2
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_transform_feedback3
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_array_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_shader
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ARB_viewport_array
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ATI_blend_equation_separate
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_ATI_texture_float
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_abgr
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_draw_buffers2
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_draw_instanced
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_framebuffer_multisample_blit_scaled
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_packed_float
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2019.08.01-15.41.13:394][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_provoking_vertex
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_shader_samples_identical
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_array
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_compression_dxt1
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_integer
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_sRGB
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_snorm
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_texture_swizzle
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_timer_query
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_transform_feedback
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_IBM_multimode_draw_arrays
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_blend_equation_advanced
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_blend_equation_advanced_coherent
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_context_flush_control
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_debug
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_robustness
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_texture_compression_astc_ldr
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_KHR_texture_compression_astc_sliced_3d
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_MESA_pack_invert
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_MESA_shader_integer_functions
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_MESA_texture_signed_rgba
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_NV_conditional_render
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_NV_depth_clamp
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_NV_packed_depth_stencil
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_NV_texture_barrier
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_OES_EGL_image
+[2019.08.01-15.41.13:395][  0]LogRHI:   GL_S3_s3tc
+[2019.08.01-15.41.13:396][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 8192
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 8192
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 2048
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 8192
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_SAMPLES: 16
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 16
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 16
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 16
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 16
+[2019.08.01-15.41.13:397][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2019.08.01-15.41.13:397][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 5, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2019.08.01-15.41.13:397][  0]LogRHI: FOpenGLProgramBinaryCache disabled by r.ProgramBinaryCache.Enable=0
+[2019.08.01-15.41.13:405][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-15.41.13:406][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-15.41.13:406][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-15.41.14:125][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.01-15.41.14:285][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.01-15.41.14:509][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.01-15.41.14:680][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.01-15.41.14:838][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.01-15.41.15:006][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.01-15.41.15:162][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.01-15.41.15:171][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2019.08.01-15.41.15:613][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Shaders/WorkingDirectory/4960/).
+[2019.08.01-15.41.15:613][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Shaders/tmp/0004D02308D7166CC788C0467328BC79/'.
+[2019.08.01-15.41.15:613][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.01-15.41.16:813][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.01-15.41.16:813][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.08.01-15.41.16:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-15.41.16:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.01-15.41.16:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-15.41.16:813][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.08.01-15.41.16:814][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.08.01-15.41.16:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.01-15.41.16:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.01-15.41.16:839][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2019.08.01-15.41.16:849][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.01-15.41.16:851][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2019.08.01-15.41.16:987][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2019.08.01-15.41.17:318][  0]LogLinux: Selected Device Profile: [Linux]
+[2019.08.01-15.41.18:205][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.01-15.41.18:205][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.01-15.41.18:205][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.08.01-15.41.18:205][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.01-15.41.18:205][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.08.01-15.41.18:205][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.01-15.41.18:231][  0]LogNetVersion: Verano_tecnologico 1.0.0, NetCL: 0, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3055326385)
+[2019.08.01-15.41.18:926][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030536 seconds
+[2019.08.01-15.41.18:947][  0]LogUObjectArray: 41533 objects as part of root set at end of initial load.
+[2019.08.01-15.41.18:947][  0]LogUObjectAllocator: 7197240 out of 0 bytes used by permanent object pool.
+[2019.08.01-15.41.18:947][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.01-15.41.19:253][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2019.08.01-15.41.24:113][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.01-15.41.24:117][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.01-15.41.31:569][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-15.41.31:569][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-15.41.31:717][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-15.41.32:569][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-15.41.34:322][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.01-15.41.35:301][  0]LogEngine: Initializing Engine...
+[2019.08.01-15.41.35:301][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-15.41.35:302][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.01-15.41.35:319][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2019.08.01-15.41.35:706][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2019.08.01-15.41.35:814][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2019.08.01-15.41.36:368][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2019.08.01-15.41.37:018][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2019.08.01-15.41.37:174][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2019.08.01-15.41.37:325][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2019.08.01-15.41.37:371][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2019.08.01-15.41.37:409][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2019.08.01-15.41.37:446][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2019.08.01-15.41.37:483][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2019.08.01-15.41.37:520][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2019.08.01-15.41.37:540][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2019.08.01-15.41.37:607][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2019.08.01-15.41.37:684][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
+[2019.08.01-15.41.37:719][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2019.08.01-15.41.37:760][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling. 
+[2019.08.01-15.41.37:820][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2019.08.01-15.41.37:854][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2019.08.01-15.41.38:056][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling. 
+[2019.08.01-15.41.38:092][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2019.08.01-15.41.38:131][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2019.08.01-15.41.38:164][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2019.08.01-15.41.38:490][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.01-15.41.39:926][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2019.08.01-15.41.39:959][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.08.01-15.41.39:961][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2019.08.01-15.41.40:007][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2019.08.01-15.41.40:115][  0]LogInit: FAudioDevice initialized.
+[2019.08.01-15.41.40:116][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.01-15.41.40:224][  0]LogDerivedDataCache: Saved boot cache 0.11s 70MB ../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-15.41.40:253][  0]LogInit: Texture streaming: Enabled
+[2019.08.01-15.41.43:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.01-15.41.44:361][  0]LogInit: Transaction tracking system initialized
+[2019.08.01-15.41.46:521][  0]BlueprintLog: New page: Cargar el editor
+[2019.08.01-15.41.53:204][  0]LocalizationService: Localization service is disabled
+[2019.08.01-15.41.57:297][  0]LogMaterial: Display: Missing cached shader map for material Cross_Mat, compiling. 
+[2019.08.01-15.41.57:332][  0]LogMaterial: Display: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2019.08.01-15.41.57:363][  0]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2019.08.01-15.41.57:395][  0]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2019.08.01-15.41.57:429][  0]LogMaterial: Display: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2019.08.01-15.41.57:466][  0]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2019.08.01-15.41.57:534][  0]LogMaterial: Display: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2019.08.01-15.41.57:567][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial, compiling. 
+[2019.08.01-15.41.57:595][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2019.08.01-15.41.57:624][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2019.08.01-15.41.57:652][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2019.08.01-15.41.57:682][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2019.08.01-15.41.57:710][  0]LogMaterial: Display: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2019.08.01-15.41.57:803][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2019.08.01-15.41.57:886][  0]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2019.08.01-15.41.57:941][  0]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2019.08.01-15.41.58:031][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/' took 0.01s
+[2019.08.01-15.41.58:031][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.01-15.41.58:031][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.01-15.42.06:874][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-15.42.06:899][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 /home/jorge/Descargas/Paquetes/UnrealEngine/FeaturePacks/StarterContent.upack)
+[2019.08.01-15.42.06:906][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.08.01-15.42.06:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.08.01-15.42.06:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.08.01-15.42.06:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.08.01-15.42.06:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.08.01-15.42.06:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.08.01-15.42.06:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.08.01-15.42.06:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.08.01-15.42.06:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.08.01-15.42.06:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.08.01-15.42.06:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.08.01-15.42.06:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.08.01-15.42.06:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.08.01-15.42.06:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.08.01-15.42.06:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.08.01-15.42.06:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.08.01-15.42.06:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.08.01-15.42.06:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.08.01-15.42.06:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.08.01-15.42.06:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.08.01-15.42.06:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.08.01-15.42.06:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.08.01-15.42.06:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.08.01-15.42.06:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.08.01-15.42.06:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.08.01-15.42.06:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.08.01-15.42.06:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.08.01-15.42.06:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.08.01-15.42.06:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.08.01-15.42.06:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.08.01-15.42.06:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.08.01-15.42.06:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.08.01-15.42.06:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.08.01-15.42.06:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.08.01-15.42.06:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.08.01-15.42.06:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.08.01-15.42.06:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.08.01-15.42.06:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.08.01-15.42.06:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.08.01-15.42.06:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.08.01-15.42.06:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.08.01-15.42.07:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.08.01-15.42.07:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.08.01-15.42.07:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.08.01-15.42.07:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.08.01-15.42.07:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.08.01-15.42.07:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.08.01-15.42.07:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.08.01-15.42.07:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.08.01-15.42.07:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.08.01-15.42.07:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.08.01-15.42.08:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.08.01-15.42.08:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.08.01-15.42.08:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.08.01-15.42.08:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.08.01-15.42.08:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.08.01-15.42.08:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.08.01-15.42.08:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.08.01-15.42.09:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.08.01-15.42.09:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.08.01-15.42.09:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.08.01-15.42.09:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.08.01-15.42.09:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.08.01-15.42.09:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.08.01-15.42.10:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.08.01-15.42.10:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.08.01-15.42.11:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.08.01-15.42.11:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.08.01-15.42.11:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.08.01-15.42.12:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.08.01-15.42.12:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.08.01-15.42.13:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.08.01-15.42.13:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.08.01-15.42.14:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.08.01-15.42.14:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.08.01-15.42.14:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.08.01-15.42.14:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.08.01-15.42.15:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.08.01-15.42.15:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.08.01-15.42.16:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.08.01-15.42.16:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.08.01-15.42.16:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.08.01-15.42.17:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.08.01-15.42.17:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.08.01-15.42.17:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.08.01-15.42.18:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.08.01-15.42.19:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.08.01-15.42.20:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.08.01-15.42.20:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.08.01-15.42.21:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.08.01-15.42.21:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.08.01-15.42.21:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.08.01-15.42.22:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.08.01-15.42.22:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.08.01-15.42.23:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.08.01-15.42.23:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.08.01-15.42.24:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.08.01-15.42.24:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.08.01-15.42.25:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.08.01-15.42.25:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.08.01-15.42.27:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.08.01-15.42.27:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.08.01-15.42.28:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.08.01-15.42.28:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.08.01-15.42.30:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.08.01-15.42.30:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.08.01-15.42.31:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.08.01-15.42.31:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.08.01-15.42.32:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.08.01-15.42.32:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.08.01-15.42.33:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.08.01-15.42.33:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.08.01-15.42.33:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.08.01-15.42.33:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.08.01-15.42.33:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.08.01-15.42.33:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.08.01-15.42.34:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.08.01-15.42.34:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.08.01-15.42.34:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.08.01-15.42.34:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.08.01-15.42.34:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.08.01-15.42.34:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.08.01-15.42.34:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.08.01-15.42.35:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.08.01-15.42.35:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.08.01-15.42.35:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.08.01-15.42.35:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.08.01-15.42.35:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.08.01-15.42.35:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.08.01-15.42.36:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.08.01-15.42.36:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.08.01-15.42.36:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.08.01-15.42.36:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.08.01-15.42.36:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.08.01-15.42.36:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.08.01-15.42.37:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.08.01-15.42.37:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.08.01-15.42.37:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.08.01-15.42.37:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.08.01-15.42.37:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.08.01-15.42.37:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.08.01-15.42.37:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.08.01-15.42.37:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.08.01-15.42.37:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.08.01-15.42.37:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.08.01-15.42.38:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.08.01-15.42.38:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.08.01-15.42.38:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Light01.uasset"
+[2019.08.01-15.42.38:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.08.01-15.42.38:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.08.01-15.42.38:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Light02.uasset"
+[2019.08.01-15.42.38:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.08.01-15.42.38:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Fire01.uasset"
+[2019.08.01-15.42.38:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.08.01-15.42.38:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.08.01-15.42.38:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.08.01-15.42.38:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.08.01-15.42.38:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.08.01-15.42.38:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.08.01-15.42.38:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.08.01-15.42.38:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.08.01-15.42.38:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.08.01-15.42.38:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.08.01-15.42.38:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.08.01-15.42.38:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.08.01-15.42.38:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.08.01-15.42.38:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Steam01.uasset"
+[2019.08.01-15.42.38:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.08.01-15.42.38:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.08.01-15.42.38:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.08.01-15.42.38:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.08.01-15.42.38:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.08.01-15.42.38:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.08.01-15.42.38:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.08.01-15.42.38:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.08.01-15.42.38:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.08.01-15.42.38:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.08.01-15.42.38:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.08.01-15.42.39:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.08.01-15.42.39:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.08.01-15.42.39:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.08.01-15.42.39:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.08.01-15.42.39:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.08.01-15.42.39:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.08.01-15.42.39:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.08.01-15.42.39:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Door.uasset"
+[2019.08.01-15.42.39:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.08.01-15.42.39:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.08.01-15.42.39:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.08.01-15.42.39:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.08.01-15.42.39:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.08.01-15.42.39:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.08.01-15.42.39:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.08.01-15.42.39:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.08.01-15.42.39:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.08.01-15.42.39:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.08.01-15.42.39:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.08.01-15.42.39:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.08.01-15.42.39:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.08.01-15.42.39:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.08.01-15.42.39:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.08.01-15.42.39:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.08.01-15.42.39:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.08.01-15.42.39:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.08.01-15.42.40:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.08.01-15.42.40:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/StarterMap.umap"
+[2019.08.01-15.42.40:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.08.01-15.42.40:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.08.01-15.42.40:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.08.01-15.42.40:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.08.01-15.42.40:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.08.01-15.42.40:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.08.01-15.42.40:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.08.01-15.42.40:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.08.01-15.42.40:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.08.01-15.42.40:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.08.01-15.42.40:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.08.01-15.42.40:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.08.01-15.42.40:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.08.01-15.42.40:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.08.01-15.42.40:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.08.01-15.42.40:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.08.01-15.42.40:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.08.01-15.42.40:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.08.01-15.42.40:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.08.01-15.42.40:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.08.01-15.42.40:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.08.01-15.42.40:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.08.01-15.42.42:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.08.01-15.42.42:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.08.01-15.42.42:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.08.01-15.42.42:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.08.01-15.42.42:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.08.01-15.42.42:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.08.01-15.42.42:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.08.01-15.42.42:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.08.01-15.42.42:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.08.01-15.42.42:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.08.01-15.42.42:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.08.01-15.42.42:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.08.01-15.42.42:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.08.01-15.42.42:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.08.01-15.42.42:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.08.01-15.42.42:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.08.01-15.42.42:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.08.01-15.42.42:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.08.01-15.42.42:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.08.01-15.42.42:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.08.01-15.42.42:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.08.01-15.42.42:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.08.01-15.42.42:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.08.01-15.42.42:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.08.01-15.42.42:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.08.01-15.42.42:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.08.01-15.42.42:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.08.01-15.42.42:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.08.01-15.42.42:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.08.01-15.42.42:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.08.01-15.42.42:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.08.01-15.42.42:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.08.01-15.42.42:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.08.01-15.42.42:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.08.01-15.42.43:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.08.01-15.42.43:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.08.01-15.42.43:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.08.01-15.42.43:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.08.01-15.42.43:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.08.01-15.42.43:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.08.01-15.42.43:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.08.01-15.42.43:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.08.01-15.42.43:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.08.01-15.43.05:249][  0]LogTexture: Display: Building textures: T_Gradinet_01 (AutoDXT, 64X256)
+[2019.08.01-15.43.05:249][  0]LogTexture: Display: Building textures: T_CobbleStone_Smooth_N (BC5, 2048X2048)
+[2019.08.01-15.43.05:249][  0]LogTexture: Display: Building textures: T_CobbleStone_Smooth_M (AutoDXT, 2048X2048)
+[2019.08.01-15.43.05:249][  0]LogTexture: Display: Building textures: T_MacroVariation (AutoDXT, 2048X2048)
+[2019.08.01-15.43.05:249][  0]LogTexture: Display: Building textures: T_CobbleStone_Smooth_D (AutoDXT, 2048X2048)
+[2019.08.01-15.43.05:249][  0]LogTexture: Display: Building textures: T_Rock_Smooth_Granite_D (AutoDXT, 2048X2048)
+[2019.08.01-15.43.05:249][  0]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2019.08.01-15.43.05:503][  0]LogMaterial: Display: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2019.08.01-15.49.03:982][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-15.49.03:990][  0]LogRHI: Using OpenGL program LRU cache: 0
+[2019.08.01-15.49.06:534][  0]LogSavePackage: Moving '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/M_CobbleStone_Smooth09E3829708D7166DE02B9D988F394466.tmp' to '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset'
+[2019.08.01-15.49.06:535][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.08.01-15.49.06:536][  0]Cmd: MAP LOAD FILE="../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-15.49.06:537][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.01-15.49.06:635][  0]MapCheck: New page: Revisión del mapa
+[2019.08.01-15.49.06:635][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.01-15.49.06:667][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.08.01-15.49.06:887][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.08.01-15.49.06:887][  0]LogTexture: Display: Building textures: T_Statue_N (BC5, 1024X1024)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: T_Chair_M (AutoDXT, 2048X2048)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: T_Metal_Gold_N (BC5, 2048X2048)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: T_Chair_N (BC5, 2048X2048)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: T_Metal_Copper_D (AutoDXT, 2048X2048)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.08.01-15.49.07:829][  0]LogTexture: Display: Building textures: T_Metal_Aluminum_D (AutoDXT, 2048X2048)
+[2019.08.01-15.49.07:830][  0]LogTexture: Display: Building textures: T_Statue_M (AutoDXT, 2048X2048)
+[2019.08.01-15.49.10:151][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.08.01-15.49.10:151][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X128)
+[2019.08.01-15.49.10:151][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2019.08.01-15.49.10:152][  0]LogTexture: Display: Building textures: T_TableRound_M (DXT1, 2048X2048)
+[2019.08.01-15.49.10:152][  0]LogTexture: Display: Building textures: T_TableRound_N (BC5, 2048X2048)
+[2019.08.01-15.49.10:206][  0]LogMaterial: Display: Missing cached shader map for material M_StatueGlass, compiling. 
+[2019.08.01-15.49.11:536][  0]LogMaterial: Display: Missing cached shader map for material M_Chair, compiling. 
+[2019.08.01-15.49.17:873][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2019.08.01-15.49.19:599][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2019.08.01-15.49.19:656][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2019.08.01-15.49.19:724][  0]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2019.08.01-15.49.19:847][  0]LogStaticMesh: Generando la malla estática SM_Chair...
+[2019.08.01-15.49.20:252][  0]LogStaticMesh: Built static mesh [0.41s] /Game/StarterContent/Props/SM_Chair.SM_Chair
+[2019.08.01-15.49.20:296][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2019.08.01-15.49.20:296][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.08.01-15.49.20:527][  0]LogStaticMesh: Generando la malla estática SM_Statue...
+[2019.08.01-15.49.20:644][  0]LogStaticMesh: Built static mesh [0.12s] /Game/StarterContent/Props/SM_Statue.SM_Statue
+[2019.08.01-15.49.20:944][  0]LogStaticMesh: Generando la malla estática SM_TableRound...
+[2019.08.01-15.49.21:108][  0]LogStaticMesh: Built static mesh [0.16s] /Game/StarterContent/Props/SM_TableRound.SM_TableRound
+[2019.08.01-15.49.21:181][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2019.08.01-15.49.21:249][  0]LogMaterial: Display: Missing cached shader map for material M_Statue, compiling. 
+[2019.08.01-15.49.21:312][  0]LogMaterial: Display: Missing cached shader map for material M_TableRound, compiling. 
+[2019.08.01-15.49.21:366][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda Starter_Wind05...
+[2019.08.01-15.49.21:998][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2310208 while cooking SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05.
+[2019.08.01-15.49.22:028][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda Starter_Birds01...
+[2019.08.01-15.49.22:738][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2686992 while cooking SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01.
+[2019.08.01-15.49.22:769][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda Starter_Wind06...
+[2019.08.01-15.49.23:297][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2193200 while cooking SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06.
+[2019.08.01-15.49.23:327][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.01-15.49.23:369][  0]LogTexture: Display: Building textures: S_AudioComponent_AutoActivate (BGRA8, 256X256)
+[2019.08.01-15.49.23:370][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-15.49.23:452][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2019.08.01-15.49.23:460][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-15.49.23:460][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,204ms to complete.
+[2019.08.01-15.49.23:460][  0]LogFileHelpers: Loading map 'Minimal_Default' took 16.924
+[2019.08.01-15.49.23:493][  0]LogLinux: Scale at X=320.000000, Y=193.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.23:494][  0]LogLinux: Scale at X=965.000000, Y=558.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.23:549][  0]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.23:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-15.49.23:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-15.49.23:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-15.49.23:714][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-15.49.23:743][  0]LogCollectionManager: Loaded 0 collections in 0.008184 seconds
+[2019.08.01-15.49.23:786][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Collections/' took 0.00s
+[2019.08.01-15.49.23:786][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/Developers/jorge/Collections/' took 0.00s
+[2019.08.01-15.49.23:786][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/Collections/' took 0.00s
+[2019.08.01-15.49.23:786][  0]LogContentBrowser: Native class hierarchy populated in 0.0277 seconds. Added 2688 classes and 617 folders.
+[2019.08.01-15.49.23:795][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.01-15.49.24:532][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.08.01-15.49.24:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:540][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:542][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:544][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:572][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-15.49.24:676][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.08.01-15.49.25:074][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.08.01-15.49.25:165][  0]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.25:166][  0]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.25:166][  0]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.25:267][  0]LogTexture: Display: Building textures: Blueprint_64x (BGRA8, 64X64)
+[2019.08.01-15.49.25:267][  0]LogTexture: Display: Building textures: icon_Editor_Preferences_General_40x (BGRA8, 40X40)
+[2019.08.01-15.49.25:267][  0]LogTexture: Display: Building textures: Paper2DSprite_TutorialIcon (BGRA8, 64X64)
+[2019.08.01-15.49.25:267][  0]LogTexture: Display: Building textures: icon_ShowSkeletalMeshes_40x (BGRA8, 40X40)
+[2019.08.01-15.49.25:267][  0]LogTexture: Display: Building textures: Landscape (BGRA8, 40X40)
+[2019.08.01-15.49.25:267][  0]LogTexture: Display: Building textures: Foliage (BGRA8, 40X40)
+[2019.08.01-15.49.25:267][  0]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.25:267][  0]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-15.49.25:561][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.08.01-15.49.25:561][  0]LogLoad: (Engine Initialization) Total time: 496.77 seconds
+[2019.08.01-15.49.25:561][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.01-15.49.25:595][  0]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.01-15.49.25:606][  0]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.01-15.49.25:631][  0]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.01-15.49.27:549][  0]LogTexture: Display: Building textures: LevelGrid1DStripes (BGRA8, 4096X1)
+[2019.08.01-15.49.27:549][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2019.08.01-15.49.27:670][  0]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-15.49.27:670][  0]LogSlate: Took 0.000746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-15.49.32:264][  0]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.49.32:268][  0]LogInit: Adding external input plugin.
+[2019.08.01-15.49.32:462][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.01-15.49.32:514][  1]LogTexture: Display: Building textures: icon_tab_Levels_40x (BGRA8, 40X40)
+[2019.08.01-15.49.32:543][  1]LogAssetRegistry: Asset discovery search completed in 495.5564 seconds
+[2019.08.01-15.49.32:550][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.01-15.49.32:550][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000164 seconds (updated 0 objects)
+[2019.08.01-15.49.33:284][  7]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.33:285][  7]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.33:286][  7]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.49.33:461][ 10]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.50.59:934][397]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.51.00:027][399]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.51.16:999][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.51.17:068][728]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.51.17:068][728]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.51.17:342][728]LogTexture: Display: Building textures: CameraActor_64x (BGRA8, 64X64)
+[2019.08.01-15.51.17:342][728]LogTexture: Display: Building textures: BlueprintInterface_64x (BGRA8, 64X64)
+[2019.08.01-15.51.17:342][728]LogTexture: Display: Building textures: BlueprintMacroLibrary_64x (BGRA8, 64X64)
+[2019.08.01-15.51.17:342][728]LogTexture: Display: Building textures: Paper2DFlipbook_TutorialIcon (BGRA8, 64X64)
+[2019.08.01-15.51.17:343][728]LogTexture: Display: Building textures: IOS (BGRA8, 64X64)
+[2019.08.01-15.51.17:343][728]LogTexture: Display: Building textures: android_Icon (BGRA8, 64X64)
+[2019.08.01-15.51.17:343][728]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.51.17:343][728]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-15.53.42:385][531]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.ActorDetails'
+[2019.08.01-15.54.51:760][891]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.08.01-15.55.33:221][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.55.46:323][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.08.01-15.55.49:909][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.55.57:769][ 89]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.55.57:769][ 89]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.55.57:835][ 89]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.56.15:453][406]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.15:453][406]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-15.56.15:468][406]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.15:468][406]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.15:513][406]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.15:514][406]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-15.56.22:172][530]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.EditorViewports'
+[2019.08.01-15.56.40:944][882]LogLinux: Scale at X=125.500000, Y=357.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.40:984][884]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.56.50:199][547]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.50:199][547]LogLinux: Scale at X=485.000000, Y=253.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.50:206][547]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.50:206][547]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.50:208][547]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.50:223][547]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-15.56.50:280][547]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.56.50:289][547]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.56.50:307][547]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.01-15.56.50:341][548]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.57.57:502][750]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.57.57:502][750]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.57.57:504][750]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.57.57:546][750]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.57.57:561][750]Running /home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -game -engine -progress
+[2019.08.01-15.57.57:662][750]
+[2019.08.01-15.57.57:662][750]Running Mono...
+[2019.08.01-15.57.57:662][750]
+[2019.08.01-15.57.57:862][750]Fixing inconsistent case in filenames.
+[2019.08.01-15.57.57:862][750]Setting up Mono
+[2019.08.01-15.57.57:862][750]~/Descargas/Paquetes/UnrealEngine/Engine ~/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux
+[2019.08.01-15.57.58:363][750]Discovering modules, targets and source code for project...
+[2019.08.01-15.58.00:765][750]Generating data for project indexing...
+[2019.08.01-15.58.04:779][750]Generating data for project indexing... 100%
+[2019.08.01-15.58.04:779][750]Discovering modules, targets and source code for project...
+[2019.08.01-15.58.06:580][750]Generating data for project indexing...
+[2019.08.01-15.58.10:098][750]Generating data for project indexing... 100%
+[2019.08.01-15.58.10:098][750]Writing project files...
+[2019.08.01-15.58.10:198][750]Writing project files... 100%
+[2019.08.01-15.58.10:198][750]Discovering modules, targets and source code for project...
+[2019.08.01-15.58.12:000][750]Generating data for project indexing...
+[2019.08.01-15.58.15:612][750]Generating data for project indexing... 100%
+[2019.08.01-15.58.15:712][750]Discovering modules, targets and source code for project...
+[2019.08.01-15.58.17:614][750]Generating data for project indexing...
+[2019.08.01-15.58.21:226][750]Generating data for project indexing... 100%
+[2019.08.01-15.58.48:351][750]Discovering modules, targets and source code for project...
+[2019.08.01-15.58.50:353][750]Generating data for project indexing...
+[2019.08.01-15.58.54:083][750]Generating data for project indexing... 100%
+[2019.08.01-15.58.57:887][750]Discovering modules, targets and source code for project...
+[2019.08.01-15.58.59:789][750]Generating data for project indexing...
+[2019.08.01-15.59.03:700][750]Generating data for project indexing... 100%
+[2019.08.01-15.59.03:701][750]Writing project files...
+[2019.08.01-15.59.05:304][750]Writing project files... 100%
+[2019.08.01-15.59.05:463][750]LogHotReload: Recompiling module Verano_tecnologico...
+[2019.08.01-15.59.05:464][750]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.05:464][750]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.05:464][750]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.05:496][750]Candidate modules for hot reload:
+[2019.08.01-15.59.05:496][750]  Verano_tecnologico
+[2019.08.01-15.59.05:497][750]Building UnrealBuildTool...
+[2019.08.01-15.59.05:497][750]Building UnrealBuildTool in /home/jorge/Descargas/Paquetes/UnrealEngine/...
+[2019.08.01-15.59.05:497][750]Running: /bin/bash "/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Build/BatchFiles/Linux/RunXBuild.sh" /property:Configuration=Development /home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj
+[2019.08.01-15.59.06:473][750]Launching UnrealBuildTool... [/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Verano_tecnologico,9619 Linux Development -TargetType=Editor -Project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -FailIfGeneratedCodeChanges "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"  -IgnoreJunk -progress]
+[2019.08.01-15.59.06:683][750]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.59.15:555][750]
+Running Mono...
+
+Fixing inconsistent case in filenames.
+Setting up Mono
+~/Descargas/Paquetes/UnrealEngine/Engine ~/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux
+Using 'git status' to determine working set for adaptive non-unity build (/home/jorge/Descargas/Paquetes/UnrealEngine).
+Using 'git status' to determine working set for adaptive non-unity build (/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico).
+Creating makefile for Verano_tecnologicoEditor (no existing makefile)
+@progress push 5%
+@progress 'Generating code...' 0%
+Creating makefile for UnrealHeaderTool (no existing makefile)
+@progress push 5%
+@progress 'Generating code...' 0%
+@progress 'Generating code...' 67%
+@progress 'Generating code...' 100%
+@progress pop
+------- Build details --------
+Using toolchain located at '/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v13_clang-7.0.1-centos7/x86_64-unknown-linux-gnu'.
+Using clang (/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v13_clang-7.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++) version '7.0.1' (string), 7 (major), 0 (minor), 1 (patch)
+Using bundled libc++ standard C++ library.
+Using lld linker
+Using llvm-ar : /home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v13_clang-7.0.1-centos7/x86_64-unknown-linux-gnu/bin/llvm-ar
+Using fast way to relink  circularly dependent libraries (no FixDeps).
+------------------------------
+@progress 'Generating code...' 33%
+Parsing headers for Verano_tecnologicoEditor
+  Running UnrealHeaderTool "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/Verano_tecnologicoEditor/Development/Verano_tecnologicoEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -FailIfGeneratedCodeChanges
+ERROR: '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Verano_tecnologico/SoyUnaPruebaBORRAME.generated.h': Changes to generated code are not allowed - conflicts written to '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Verano_tecnologico/SoyUnaPruebaBORRAME.generated.h.conflict'
+
+[2019.08.01-15.59.15:556][750]CompilerResultsLog: New page: Compilación - 1/8/2019 10:59:15
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: 
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Running Mono...
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: 
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Fixing inconsistent case in filenames.
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Setting up Mono
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: ~/Descargas/Paquetes/UnrealEngine/Engine ~/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (/home/jorge/Descargas/Paquetes/UnrealEngine).
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico).
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Creating makefile for Verano_tecnologicoEditor (no existing makefile)
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress push 5%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress 'Generating code...' 0%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Creating makefile for UnrealHeaderTool (no existing makefile)
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress push 5%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress 'Generating code...' 0%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress 'Generating code...' 67%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress 'Generating code...' 100%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress pop
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: ------- Build details --------
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using toolchain located at '/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v13_clang-7.0.1-centos7/x86_64-unknown-linux-gnu'.
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using clang (/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v13_clang-7.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++) version '7.0.1' (string), 7 (major), 0 (minor), 1 (patch)
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using bundled libc++ standard C++ library.
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using lld linker
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using llvm-ar : /home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v13_clang-7.0.1-centos7/x86_64-unknown-linux-gnu/bin/llvm-ar
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Using fast way to relink  circularly dependent libraries (no FixDeps).
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: ------------------------------
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: @progress 'Generating code...' 33%
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: Parsing headers for Verano_tecnologicoEditor
+[2019.08.01-15.59.15:557][750]CompilerResultsLog:   Running UnrealHeaderTool "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" "/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/Verano_tecnologicoEditor/Development/Verano_tecnologicoEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -FailIfGeneratedCodeChanges
+[2019.08.01-15.59.15:557][750]CompilerResultsLog: ERROR: '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Verano_tecnologico/SoyUnaPruebaBORRAME.generated.h': Changes to generated code are not allowed - conflicts written to '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Verano_tecnologico/SoyUnaPruebaBORRAME.generated.h.conflict'
+[2019.08.01-15.59.15:557][750]LogMainFrame: MainFrame: Module compiling took 10.094 seconds
+[2019.08.01-15.59.15:568][750]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.15:568][750]LogLinux: Scale at X=955.000000, Y=523.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.15:570][750]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.15:624][750]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.59.35:982][750]LogSlate: Window 'Mensaje' being destroyed
+[2019.08.01-15.59.35:991][750]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.35:991][750]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.35:992][750]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-15.59.36:052][750]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.08.01-15.59.36:058][750]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.08.01-15.59.36:275][751]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-15.59.36:276][751]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-16.00.10:580][341]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.00.10:581][341]LogSlate: Window 'Registro de salida' being destroyed
+[2019.08.01-16.00.10:595][341]LogSlate: Window 'Registro de salida' being destroyed
+[2019.08.01-16.00.14:865][422]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.00.14:865][422]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.00.14:918][422]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.00.17:457][468]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.00.17:457][468]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-16.00.17:472][468]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-16.00.25:668][513]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.392 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-16.01.45:126][614]LogLinux: Scale at X=125.500000, Y=357.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.01.45:174][616]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.01.53:131][188]LogLinux: Scale at X=338.000000, Y=513.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.01.53:151][188]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.01.54:227][256]LogLinux: Scale at X=338.000000, Y=513.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.01.54:247][257]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.01.58:713][437]LogLinux: Scale at X=516.000000, Y=509.400024: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.01.58:778][438]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.02.12:856][329]LogLinux: Scale at X=125.500000, Y=357.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.12:901][331]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.02.18:838][748]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.18:838][748]LogLinux: Scale at X=405.000000, Y=153.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.18:844][748]LogUProjectInfo: Found projects:
+[2019.08.01-16.02.18:849][748]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.18:919][749]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.02.25:102][859]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.25:103][859]LogLinux: Scale at X=555.000000, Y=273.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.25:108][859]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.25:188][859]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.02.36:087][859]LogSlate: Window 'Open File' being destroyed
+[2019.08.01-16.02.37:986][904]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.08.01-16.02.38:039][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.08.01-16.02.38:044][904]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.02.38:069][904]LogSlate: Window 'Open Project' being destroyed
+[2019.08.01-16.02.38:073][904]LogSlate: Window 'Verano_tecnologico - Unreal Editor' being destroyed
+[2019.08.01-16.02.38:175][905]Cmd: QUIT_EDITOR
+[2019.08.01-16.02.38:188][905]LogHAL: Warning: Process (pid=6633) is still running - we will reap it in a waiter thread, but the thread handle is going to be leaked.
+[2019.08.01-16.02.38:188][905]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-16.02.38:223][905]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.01-16.02.38:223][905]LogExit: Preparing to exit.
+[2019.08.01-16.02.39:265][905]LogExit: Editor shut down
+[2019.08.01-16.02.39:267][905]LogExit: Transaction tracking system shut down
+[2019.08.01-16.02.39:442][905]LogExit: Object subsystem successfully closed.
+[2019.08.01-16.02.39:454][905]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.01-16.02.39:494][905]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-16.02.39:494][905]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-16.02.39:494][905]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-16.02.39:494][905]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-16.02.39:494][905]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-16.02.39:494][905]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-16.02.39:616][905]LogModuleManager: Shutting down and abandoning module SlateFileDialogs (568)
+[2019.08.01-16.02.39:616][905]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (566)
+[2019.08.01-16.02.39:616][905]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2019.08.01-16.02.39:616][905]LogModuleManager: Shutting down and abandoning module AddContentDialog (562)
+[2019.08.01-16.02.39:616][905]LogModuleManager: Shutting down and abandoning module WidgetCarousel (561)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module EditorWidgets (558)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module CollectionManager (556)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module MeshBuilder (554)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module StatsViewer (552)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module FoliageEdit (550)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module LandscapeEditor (548)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module MeshPaintMode (546)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (544)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module ActorPickerMode (542)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module GeometryMode (540)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module TextureAlignMode (538)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module BspMode (536)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (534)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (532)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module AutomationWorker (530)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (528)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (526)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (524)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (522)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module WebMMedia (520)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (518)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module SequenceRecorder (517)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (514)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (512)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (510)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (508)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (506)
+[2019.08.01-16.02.39:617][905]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (504)
+[2019.08.01-16.02.39:618][905]LogModuleManager: Shutting down and abandoning module Media (503)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (500)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (498)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module PlacementMode (497)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module MaterialEditor (496)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (490)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (486)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module CharacterAI (484)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module MeshPaint (480)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2019.08.01-16.02.39:623][905]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2019.08.01-16.02.39:624][905]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2019.08.01-16.02.39:624][905]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2019.08.01-16.02.39:624][905]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2019.08.01-16.02.39:624][905]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)

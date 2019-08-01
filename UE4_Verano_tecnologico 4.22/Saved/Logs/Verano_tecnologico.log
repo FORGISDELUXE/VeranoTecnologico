@@ -1,0 +1,1408 @@
+﻿Log file open, 08/01/19 11:42:24
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Verano_tecnologico
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.063762
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogInit: Using libcurl 7.48.0-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: Build: ++UE4+Release-4.22-CL-0
+LogInit: Engine Version: 4.22.3-0+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-0+++UE4+Release-4.22
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Jul 31 2019 22:42:31
+LogInit: Compiled with Clang: 7.0.1 (tags/RELEASE_701/final)
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: /home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[r.RHICmdBypass:1]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.25:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.01-16.42.25:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.01-16.42.25:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.25:936][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.25:936][  0]LogInit: Initializing SDL.
+[2019.08.01-16.42.25:971][  0]LogInit: Initialized SDL 2.0.8 revision: 11184 (hg-12121:4358e537000a with EpicExtensions) (compiled against 2.0.8)
+[2019.08.01-16.42.25:971][  0]LogInit: Using SDL video driver 'x11'
+[2019.08.01-16.42.25:989][  0]LogInit: Display metrics:
+[2019.08.01-16.42.25:989][  0]LogInit:   PrimaryDisplayWidth: 1920
+[2019.08.01-16.42.25:989][  0]LogInit:   PrimaryDisplayHeight: 1080
+[2019.08.01-16.42.25:989][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2019.08.01-16.42.25:989][  0]LogInit:     Left=0, Top=27, Right=1920, Bottom=1080
+[2019.08.01-16.42.25:989][  0]LogInit:   VirtualDisplayRect:
+[2019.08.01-16.42.25:989][  0]LogInit:     Left=0, Top=27, Right=1920, Bottom=1080
+[2019.08.01-16.42.25:989][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2019.08.01-16.42.25:989][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2019.08.01-16.42.25:989][  0]LogInit:   Number of monitors: 1
+[2019.08.01-16.42.25:989][  0]LogInit:     Monitor 0
+[2019.08.01-16.42.25:989][  0]LogInit:       Name: 0
+[2019.08.01-16.42.25:989][  0]LogInit:       ID: display0
+[2019.08.01-16.42.25:989][  0]LogInit:       NativeWidth: 1920
+[2019.08.01-16.42.25:989][  0]LogInit:       NativeHeight: 1080
+[2019.08.01-16.42.25:989][  0]LogInit:       bIsPrimary: true
+[2019.08.01-16.42.25:989][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-16.42.25:989][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-16.42.25:990][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-16.42.25:991][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-16.42.25:991][  0]LogLinux: Selected Device Profile: [Linux]
+[2019.08.01-16.42.25:991][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2019.08.01-16.42.26:004][  0]LogHAL: Display: Platform has ~ 4 GB [8123019264 / 4294967296 / 8], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.01-16.42.26:004][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.01-16.42.26:004][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-16.42.26:004][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Scalability.ini]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-16.42.26:005][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.01-16.42.26:006][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.01-16.42.26:006][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.01-16.42.26:006][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Config/Linux/Engine.ini]
+[2019.08.01-16.42.26:006][  0]LogConfig: Setting CVar [[g.TimeoutForBlockOnRenderFence:60000]]
+[2019.08.01-16.42.26:006][  0]LogInit: Unix hardware info:
+[2019.08.01-16.42.26:006][  0]LogInit:  - we are the first instance of this executable
+[2019.08.01-16.42.26:006][  0]LogInit:  - this process' id (pid) is 2429, parent process' id (ppid) is 1312
+[2019.08.01-16.42.26:006][  0]LogInit:  - we are not running under debugger
+[2019.08.01-16.42.26:006][  0]LogInit:  - machine network name is 'Forgis'
+[2019.08.01-16.42.26:006][  0]LogInit:  - user name is 'jorge' (jorge)
+[2019.08.01-16.42.26:006][  0]LogInit:  - we're logged in locally
+[2019.08.01-16.42.26:006][  0]LogInit:  - we're running with rendering
+[2019.08.01-16.42.26:006][  0]LogInit:  - CPU: GenuineIntel 'Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz' (signature: 0x806EA)
+[2019.08.01-16.42.26:006][  0]LogInit:  - Number of physical cores available for the process: 4
+[2019.08.01-16.42.26:006][  0]LogInit:  - Number of logical cores available for the process: 8
+[2019.08.01-16.42.26:006][  0]LogInit:  - Cache line size: 64
+[2019.08.01-16.42.26:006][  0]LogInit:  - Memory allocator used: binned2
+[2019.08.01-16.42.26:006][  0]LogInit:  - This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+[2019.08.01-16.42.26:006][  0]LogCore: Benchmarking clocks:
+[2019.08.01-16.42.26:006][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 49395776 (49396K, 49M) calls per second without zero deltas.
+[2019.08.01-16.42.26:006][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 3765591 (3766K, 4M) calls per second without zero deltas.
+[2019.08.01-16.42.26:006][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 200344860 (200345K, 200M) calls per second with 99.999870% zero deltas.
+[2019.08.01-16.42.26:006][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2019.08.01-16.42.26:006][  0]LogInit: Unix-specific commandline switches:
+[2019.08.01-16.42.26:006][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2019.08.01-16.42.26:006][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2019.08.01-16.42.26:006][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2019.08.01-16.42.26:006][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2019.08.01-16.42.26:006][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2019.08.01-16.42.26:006][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2019.08.01-16.42.26:006][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2019.08.01-16.42.26:006][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2019.08.01-16.42.26:006][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2019.08.01-16.42.26:006][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2019.08.01-16.42.26:006][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2019.08.01-16.42.26:007][  0]LogInit:  - Physical RAM available (not considering process quota): 8 GB (7746 MB, 7932636 KB, 8123019264 bytes)
+[2019.08.01-16.42.26:007][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1.4
+[2019.08.01-16.42.26:007][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2019.08.01-16.42.26:239][  0]LogInit: Using OS detected language (es-ES).
+[2019.08.01-16.42.26:239][  0]LogInit: Using OS detected locale (es-ES).
+[2019.08.01-16.42.26:239][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.08.01-16.42.26:398][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.01-16.42.26:398][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.01-16.42.27:265][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2019.08.01-16.42.27:271][  0]LogRHI: Initializing OpenGL RHI
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_VENDOR: Intel Open Source Technology Center
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_RENDERER: Mesa DRI Intel(R) Kabylake GT1.5 
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_VERSION: 4.5 (Core Profile) Mesa 13.0.6
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.50
+[2019.08.01-16.42.27:271][  0]LogRHI: OpenGL Extensions:
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_3DFX_texture_compression_FXT1
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_conservative_depth
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_draw_buffers_blend
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_shader_stencil_export
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_shader_trinary_minmax
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_vertex_shader_layer
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_AMD_vertex_shader_viewport_index
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ANGLE_texture_compression_dxt3
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ANGLE_texture_compression_dxt5
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_APPLE_object_purgeable
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_ES3_2_compatibility
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_base_instance
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_blend_func_extended
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_buffer_storage
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_clear_texture
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_clip_control
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_compute_shader
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_conservative_depth
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_copy_buffer
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_copy_image
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_cull_distance
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_debug_output
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_depth_clamp
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_derivative_control
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_direct_state_access
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_draw_buffers
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_draw_indirect
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_draw_instanced
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_fragment_shader
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_framebuffer_object
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_get_program_binary
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_gpu_shader5
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_half_float_pixel
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_half_float_vertex
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_instanced_arrays
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_internalformat_query
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_internalformat_query2
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_map_buffer_range
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_multi_bind
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_occlusion_query2
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_point_sprite
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_program_interface_query
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_provoking_vertex
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_query_buffer_object
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_robustness
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_sample_shading
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_sampler_objects
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2019.08.01-16.42.27:271][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_atomic_counter_ops
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_clock
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_draw_parameters
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_image_size
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_objects
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_precision
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_stencil_export
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_subroutine
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shader_viewport_layer_array
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_shading_language_packing
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_stencil_texturing
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_sync
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_tessellation_shader
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_barrier
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_float
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_gather
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_multisample
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_query_levels
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_query_lod
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_rectangle
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_rg
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_stencil8
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_storage
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_swizzle
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_texture_view
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_timer_query
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_transform_feedback2
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_transform_feedback3
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_array_object
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_shader
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ARB_viewport_array
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ATI_blend_equation_separate
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_ATI_texture_float
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_abgr
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_draw_buffers2
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_draw_instanced
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_framebuffer_multisample_blit_scaled
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_packed_float
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_provoking_vertex
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_shader_samples_identical
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_array
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_compression_dxt1
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_integer
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_sRGB
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_snorm
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_texture_swizzle
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_timer_query
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_transform_feedback
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_IBM_multimode_draw_arrays
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_blend_equation_advanced
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_blend_equation_advanced_coherent
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_context_flush_control
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_debug
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_robustness
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_texture_compression_astc_ldr
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_KHR_texture_compression_astc_sliced_3d
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_MESA_pack_invert
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_MESA_shader_integer_functions
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_MESA_texture_signed_rgba
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_NV_conditional_render
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_NV_depth_clamp
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_NV_packed_depth_stencil
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_NV_texture_barrier
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_OES_EGL_image
+[2019.08.01-16.42.27:272][  0]LogRHI:   GL_S3_s3tc
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 8192
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 8192
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 2048
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 8192
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_SAMPLES: 16
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 16
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 16
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 16
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 192
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 16
+[2019.08.01-16.42.27:274][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2019.08.01-16.42.27:274][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 5, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2019.08.01-16.42.27:274][  0]LogRHI: FOpenGLProgramBinaryCache disabled by r.ProgramBinaryCache.Enable=0
+[2019.08.01-16.42.27:283][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-16.42.27:283][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-16.42.27:283][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-16.42.28:091][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.01-16.42.28:287][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.01-16.42.28:541][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.01-16.42.28:730][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.01-16.42.28:908][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.01-16.42.29:095][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.01-16.42.29:272][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.01-16.42.29:281][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2019.08.01-16.42.29:784][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Shaders/WorkingDirectory/2429/).
+[2019.08.01-16.42.29:784][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Intermediate/Shaders/tmp/0004C77908D716755582DD5C13161F11/'.
+[2019.08.01-16.42.29:784][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.01-16.42.31:152][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.01-16.42.31:314][  0]LogDerivedDataCache: Loaded boot cache 0.16s 85MB ../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-16.42.31:314][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/DerivedDataCache/Boot.ddc
+[2019.08.01-16.42.31:314][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-16.42.31:314][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.01-16.42.31:314][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-16.42.31:314][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2019.08.01-16.42.31:315][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2019.08.01-16.42.31:315][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.01-16.42.31:315][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.01-16.42.31:357][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2019.08.01-16.42.31:370][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.01-16.42.31:371][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2019.08.01-16.42.31:491][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2019.08.01-16.42.31:852][  0]LogLinux: Selected Device Profile: [Linux]
+[2019.08.01-16.42.32:742][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.01-16.42.32:742][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.01-16.42.32:742][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.08.01-16.42.32:742][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.01-16.42.32:742][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.08.01-16.42.32:742][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.01-16.42.32:764][  0]LogNetVersion: Verano_tecnologico 1.0.0, NetCL: 0, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3055326385)
+[2019.08.01-16.42.33:439][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.028477 seconds
+[2019.08.01-16.42.33:459][  0]LogUObjectArray: 41533 objects as part of root set at end of initial load.
+[2019.08.01-16.42.33:459][  0]LogUObjectAllocator: 7197240 out of 0 bytes used by permanent object pool.
+[2019.08.01-16.42.33:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.01-16.42.33:758][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2019.08.01-16.42.37:472][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.01-16.42.37:475][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.01-16.42.43:985][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-16.42.43:985][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-16.42.44:125][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-16.42.44:974][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-16.42.46:695][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.01-16.42.47:651][  0]LogEngine: Initializing Engine...
+[2019.08.01-16.42.47:652][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-16.42.47:653][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.01-16.42.47:941][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.01-16.42.48:433][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.08.01-16.42.48:443][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2019.08.01-16.42.48:457][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2019.08.01-16.42.48:543][  0]LogInit: FAudioDevice initialized.
+[2019.08.01-16.42.48:544][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.01-16.42.48:604][  0]LogDerivedDataCache: Saved boot cache 0.06s 85MB ../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-16.42.48:616][  0]LogInit: Texture streaming: Enabled
+[2019.08.01-16.42.49:464][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.01-16.42.49:984][  0]LogInit: Transaction tracking system initialized
+[2019.08.01-16.42.50:758][  0]BlueprintLog: New page: Cargar el editor
+[2019.08.01-16.42.53:415][  0]LocalizationService: Localization service is disabled
+[2019.08.01-16.42.55:263][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/' took 0.00s
+[2019.08.01-16.42.55:263][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.01-16.42.55:263][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.01-16.42.58:925][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.01-16.42.58:926][  0]Cmd: MAP LOAD FILE="../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-16.42.58:935][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.01-16.42.59:026][  0]MapCheck: New page: Revisión del mapa
+[2019.08.01-16.42.59:026][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.01-16.42.59:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.08.01-16.42.59:252][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.08.01-16.42.59:260][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-16.42.59:388][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.08.01-16.42.59:398][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-16.42.59:398][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2019.08.01-16.42.59:398][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.472
+[2019.08.01-16.42.59:404][  0]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.42.59:404][  0]LogLinux: Scale at X=960.000000, Y=553.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.42.59:432][  0]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.42.59:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-16.42.59:478][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-16.42.59:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-16.42.59:496][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-16.42.59:506][  0]LogCollectionManager: Loaded 0 collections in 0.002179 seconds
+[2019.08.01-16.42.59:528][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Collections/' took 0.00s
+[2019.08.01-16.42.59:528][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/Developers/jorge/Collections/' took 0.00s
+[2019.08.01-16.42.59:528][  0]LogFileCache: Scanning file cache for directory '/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/Collections/' took 0.00s
+[2019.08.01-16.42.59:528][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2688 classes and 617 folders.
+[2019.08.01-16.42.59:532][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.01-16.42.59:778][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.01-16.42.59:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:784][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-16.42.59:822][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.01-16.42.59:954][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.08.01-16.43.00:097][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.01-16.43.00:097][  0]LogLoad: (Engine Initialization) Total time: 36.90 seconds
+[2019.08.01-16.43.00:097][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.01-16.43.00:108][  0]LogRHI: Using OpenGL program LRU cache: 0
+[2019.08.01-16.43.00:108][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.01-16.43.00:112][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.01-16.43.00:122][  0]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.01-16.43.01:391][  0]LogInit: Adding external input plugin.
+[2019.08.01-16.43.01:434][  0]LogAssetRegistry: Asset discovery search completed in 29.9441 seconds
+[2019.08.01-16.43.01:438][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.01-16.43.01:438][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000074 seconds (updated 0 objects)
+[2019.08.01-16.43.01:440][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.01-16.43.01:471][  0]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-16.43.01:472][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-16.43.05:445][  2]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.43.05:457][  2]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.05:457][  2]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.05:457][  2]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.06:827][  2]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-16.43.06:848][  3]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.43.13:823][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-16.43.15:622][163]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.16:375][177]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.43.31:763][488]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.31:763][488]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.31:782][488]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.43.31:860][488]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.43.39:757][488]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2019.08.01-16.43.39:757][488]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.08.01-16.43.39:757][488]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.08.01-16.43.39:757][488]LogTexture: Display: Building textures: T_ground_Moss_D (AutoDXT, 2048X2048)
+[2019.08.01-16.43.39:757][488]LogTexture: Display: Building textures: T_Perlin_Noise_M (AutoDXT, 2048X2048)
+[2019.08.01-16.43.39:757][488]LogTexture: Display: Building textures: T_Ground_Moss_N (BC5, 2048X2048)
+[2019.08.01-16.43.39:757][488]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2019.08.01-16.43.39:846][488]LogAIModule: Creating AISystem for world Draft
+[2019.08.01-16.43.39:872][488]LogAssetEditorManager: Opening Asset editor for World /Game/Draft/Draft.Draft
+[2019.08.01-16.43.39:906][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.08.01-16.43.39:913][488]Cmd: MAP LOAD FILE="../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Content/Draft/Draft.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-16.43.39:913][488]LightingResults: New page: Diseñar la iluminación
+[2019.08.01-16.43.39:914][488]LoadErrors: New page: Cargando mapa: Draft.umap
+[2019.08.01-16.43.39:915][488]MapCheck: New page: Revisión del mapa
+[2019.08.01-16.43.39:915][488]LightingResults: New page: Diseñar la iluminación
+[2019.08.01-16.43.39:960][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.08.01-16.43.39:963][488]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-16.43.40:015][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.08.01-16.43.40:035][488]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-16.43.40:035][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2019.08.01-16.43.40:035][488]LogFileHelpers: Loading map 'Draft' took 0.123
+[2019.08.01-16.44.24:352][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-16.44.47:983][288]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.44.47:984][288]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.44.47:984][288]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.44.48:058][289]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.10:417][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-16.45.10:534][905]LogLinux: Scale at X=1747.000000, Y=428.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.10:570][906]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.12:558][ 84]LogLinux: Scale at X=1558.500000, Y=511.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.12:599][ 85]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.12:608][ 85]LogLinux: Scale at X=1541.500000, Y=577.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.12:633][ 85]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.12:666][ 86]LogLinux: Scale at X=1553.500000, Y=621.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.12:685][ 87]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.13:209][123]LogLinux: Scale at X=1577.500000, Y=835.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.13:241][125]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.13:368][133]LogLinux: Scale at X=1578.000000, Y=648.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.13:384][133]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.15:494][300]LogLinux: Scale at X=1577.500000, Y=835.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.15:522][302]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.15:676][311]LogLinux: Scale at X=1553.500000, Y=621.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.15:694][312]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.16:140][343]LogLinux: Scale at X=1578.500000, Y=613.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.16:155][343]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.16:175][344]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.01-16.45.16:179][344]LogLinux: Scale at X=1570.500000, Y=546.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.16:198][344]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.16:271][348]LogLinux: Scale at X=1541.500000, Y=577.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.16:289][348]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.16:397][355]LogLinux: Scale at X=1558.500000, Y=540.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.16:417][355]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.16:503][360]LogLinux: Scale at X=1558.500000, Y=511.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.16:535][362]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.16:596][364]LogLinux: Scale at X=1466.500000, Y=635.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.16:618][364]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.28:312][ 15]LogLinux: Scale at X=1757.000000, Y=430.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.28:339][ 16]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.29:147][ 81]LogLinux: Scale at X=1476.500000, Y=637.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.29:163][ 81]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.29:192][ 82]LogLinux: Scale at X=1588.500000, Y=615.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.29:209][ 83]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.29:577][110]LogLinux: Scale at X=1563.500000, Y=623.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.29:594][111]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.29:937][134]LogLinux: Scale at X=1588.000000, Y=650.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.29:954][134]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.30:237][154]LogLinux: Scale at X=1587.500000, Y=835.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.30:263][156]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.31:192][229]LogLinux: Scale at X=1563.500000, Y=623.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.31:207][229]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.31:552][253]LogLinux: Scale at X=1588.500000, Y=615.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.31:570][254]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.51:789][995]LogLinux: Scale at X=1756.000000, Y=425.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.51:816][996]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.53:009][ 97]LogLinux: Scale at X=1475.500000, Y=632.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.53:026][ 97]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.53:055][ 98]LogLinux: Scale at X=1567.500000, Y=508.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.53:084][100]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.53:640][140]LogLinux: Scale at X=1475.500000, Y=632.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.53:664][141]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.54:008][164]LogLinux: Scale at X=1567.500000, Y=508.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.54:040][166]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.54:202][176]LogLinux: Scale at X=1567.500000, Y=537.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.54:221][176]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.54:413][189]LogLinux: Scale at X=1550.500000, Y=574.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.54:428][189]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.54:611][202]LogLinux: Scale at X=1579.500000, Y=543.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.54:630][202]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.55:169][242]LogLinux: Scale at X=1587.500000, Y=610.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.55:186][243]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.55:535][269]LogLinux: Scale at X=1562.500000, Y=618.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.55:552][270]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.55:967][300]LogLinux: Scale at X=1587.000000, Y=645.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.55:982][300]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.57:768][439]LogLinux: Scale at X=1586.500000, Y=835.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.57:801][441]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.58:845][521]LogLinux: Scale at X=1562.500000, Y=618.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.58:863][521]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.59:060][533]LogLinux: Scale at X=1587.500000, Y=610.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.59:076][533]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.59:143][537]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.01-16.45.59:148][537]LogLinux: Scale at X=1579.500000, Y=543.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.59:170][538]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.59:472][558]LogLinux: Scale at X=1550.500000, Y=574.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.59:490][559]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.59:557][562]LogLinux: Scale at X=1567.500000, Y=537.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.59:572][562]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.59:664][568]LogLinux: Scale at X=1567.500000, Y=508.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.45.59:687][570]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.45.59:985][592]LogLinux: Scale at X=1475.500000, Y=632.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.46.00:004][592]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.46.02:989][838]LogEditorViewport: Clicking Background
+[2019.08.01-16.46.03:879][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-16.46.10:919][ 64]LogLinux: Scale at X=1736.000000, Y=425.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.46.10:954][ 65]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.47.36:007][224]LogLinux: Scale at X=1823.000000, Y=427.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.36:035][226]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.47.44:721][825]Cmd: DELETE
+[2019.08.01-16.47.44:722][825]Cmd: ACTOR DELETE
+[2019.08.01-16.47.44:726][825]LogEditorActor: Deleted Actor: Pawn
+[2019.08.01-16.47.44:795][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.08.01-16.47.44:798][825]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.08.01-16.47.53:060][ 69]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.53:060][ 69]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.53:062][ 69]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.53:101][ 69]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Draft/Initial_draft_player_1_Blueprint.Initial_draft_player_1_Blueprint
+[2019.08.01-16.47.53:106][ 69]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.47.53:112][ 69]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.53:112][ 69]LogLinux: Scale at X=331.000000, Y=192.775024: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.53:113][ 69]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.47.53:692][ 69]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.08.01-16.47.54:580][ 69]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.01-16.47.54:663][ 70]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.01-16.47.54:717][ 71]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.48.00:367][220]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.48.00:367][220]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.48.00:621][220]LogLinux: Scale at X=455.000000, Y=235.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.48.00:621][220]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.01-16.51.44:920][457]LogLinux: Scale at X=1304.500000, Y=335.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.51.44:970][459]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.52.21:466][637]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.21:466][637]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.21:466][637]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.24:156][702]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.24:156][702]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.24:157][702]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.24:269][703]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.52.25:880][743]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.25:881][743]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.25:881][743]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.52.25:951][744]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.54.18:265][690]LogRenderer: Reallocating scene render targets to support 1208x912 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-16.54.24:234][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-16.54.24:261][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-16.54.24:261][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-16.54.24:261][768]PIE: New page: Sesión PIE (reproducción en el editor): Draft (1/8/2019 11:54:24)
+[2019.08.01-16.54.24:263][768]LogPlayLevel: Creating play world package: /Game/Draft/UEDPIE_0_Draft
+[2019.08.01-16.54.24:266][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002845s)
+[2019.08.01-16.54.24:268][768]LogAIModule: Creating AISystem for world Draft
+[2019.08.01-16.54.24:268][768]LogPlayLevel: PIE: World Init took: (0.001904s)
+[2019.08.01-16.54.24:268][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Draft/Draft.Draft to /Game/Draft/UEDPIE_0_Draft.Draft (0.005803s)
+[2019.08.01-16.54.24:343][768]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2019.08.01-16.54.24:345][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.08.01-16.54.24:346][768]LogAudioMixer: Display: Initializing audio mixer.
+[2019.08.01-16.54.24:346][768]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2019.08.01-16.54.24:431][768]LogInit: FAudioDevice initialized.
+[2019.08.01-16.54.24:447][768]LogLoad: Game class is 'GameModeBase'
+[2019.08.01-16.54.24:453][768]LogWorld: Bringing World /Game/Draft/UEDPIE_0_Draft.Draft up for play (max tick rate 0) at 2019.08.01-11.54.24
+[2019.08.01-16.54.24:454][768]LogWorld: Bringing up level for play took: 0.001855
+[2019.08.01-16.54.24:472][768]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.01-16.54.24:665][768]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.01-16.54.24:665][768]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.08.01-16.54.24:668][768]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Draft/UEDPIE_0_Draft 0,411
+[2019.08.01-16.54.24:668][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-16.54.32:395][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-16.54.32:488][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-16.54.32:488][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-16.54.32:488][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-16.54.32:489][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-16.54.32:489][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-16.54.32:519][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-16.54.32:519][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-16.54.32:603][940]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-16.54.32:626][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-16.54.32:668][940]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2019.08.01-16.54.32:694][941]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.08.01-16.54.50:351][199]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.54.50:351][199]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.54.50:351][199]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.54.50:521][200]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.54.59:373][357]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.54.59:374][357]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.54.59:436][357]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-16.54.59:504][357]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-16.54.59:586][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.08.01-16.54.59:829][357]LogSavePackage: Moving '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Draft_Auto106F16B9608D71677149020643FCAA686.tmp' to '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Autosaves/Game/Draft/Draft_Auto1.umap'
+[2019.08.01-16.54.59:832][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Draft/Draft' took 0.326
+[2019.08.01-16.54.59:832][357]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.326
+[2019.08.01-16.54.59:834][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Draft/Initial_draft_player_1_Blueprint] ([1] browsable assets)...
+[2019.08.01-16.54.59:834][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Draft/Initial_draft_player_1_Blueprint]
+[2019.08.01-16.54.59:876][357]LogSavePackage: Moving '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Initial_draft_player_1_Blueprint06F3858108D7167714939C763FCAFFBA.tmp' to '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Autosaves/Game/Draft/Initial_draft_player_1_Blueprint_Auto1.uasset'
+[2019.08.01-16.54.59:877][357]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.08.01-16.57.12:517][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.08.17:693][171]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.08.17:694][171]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.08.17:694][171]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.08.17:856][177]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.08.20:326][267]LogLinux: Scale at X=965.000000, Y=801.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.08.20:369][269]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.09.14:328][560]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.09.14:328][560]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.09.14:329][560]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.09.14:383][561]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.09.23:063][794]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.09.23:064][794]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.09.23:082][794]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.09.23:191][794]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.09.23:281][794]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2019.08.01-17.09.23:282][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Draft/Draft' took 0.089
+[2019.08.01-17.09.23:285][794]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Draft/Initial_draft_player_1_Blueprint] ([1] browsable assets)...
+[2019.08.01-17.09.23:285][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Draft/Initial_draft_player_1_Blueprint]
+[2019.08.01-17.09.23:342][794]LogSavePackage: Moving '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Initial_draft_player_1_Blueprint4F8CD95B08D716791739A9BE734236CA.tmp' to '../../../../../../MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Saved/Autosaves/Game/Draft/Initial_draft_player_1_Blueprint_Auto2.uasset'
+[2019.08.01-17.09.23:343][794]LogFileHelpers: Auto-saving content packages took 0.059
+[2019.08.01-17.16.10:629][447]LogLinux: Scale at X=1094.000000, Y=581.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.16.10:689][449]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.17.55:228][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.01-17.17.55:261][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-17.17.55:261][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-17.17.55:262][338]PIE: New page: Sesión PIE (reproducción en el editor): Draft (1/8/2019 12:17:55)
+[2019.08.01-17.17.55:262][338]LogPlayLevel: Creating play world package: /Game/Draft/UEDPIE_0_Draft
+[2019.08.01-17.17.55:270][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007145s)
+[2019.08.01-17.17.55:271][338]LogAIModule: Creating AISystem for world Draft
+[2019.08.01-17.17.55:271][338]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2019.08.01-17.17.55:271][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Draft/Draft.Draft to /Game/Draft/UEDPIE_0_Draft.Draft (0.009070s)
+[2019.08.01-17.17.55:337][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2019.08.01-17.17.55:338][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.08.01-17.17.55:339][338]LogAudioMixer: Display: Initializing audio mixer.
+[2019.08.01-17.17.55:339][338]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2019.08.01-17.17.55:433][338]LogInit: FAudioDevice initialized.
+[2019.08.01-17.17.55:445][338]LogLoad: Game class is 'GameModeBase'
+[2019.08.01-17.17.55:448][338]LogWorld: Bringing World /Game/Draft/UEDPIE_0_Draft.Draft up for play (max tick rate 0) at 2019.08.01-12.17.55
+[2019.08.01-17.17.55:449][338]LogWorld: Bringing up level for play took: 0.002013
+[2019.08.01-17.17.55:456][338]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Draft/UEDPIE_0_Draft 0,203
+[2019.08.01-17.17.55:457][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-17.18.02:271][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.18.04:998][574]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-17.18.04:998][574]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-17.18.04:998][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-17.18.04:999][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-17.18.04:999][574]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-17.18.05:053][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-17.18.05:054][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Draft/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft/Draft.Draft:PersistentLevel.Draft'
+[2019.08.01-17.18.05:175][574]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-17.18.05:219][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-17.18.05:227][574]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.08.01-17.18.05:254][575]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.08.01-17.18.19:786][921]LogLinux: Scale at X=1055.500000, Y=113.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.18.19:922][922]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.18.25:690][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-17.19.24:621][430]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.19.24:621][430]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.19.24:621][430]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.19.24:686][431]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.20.44:923][126]LogLinux: Scale at X=1267.000000, Y=582.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.20.44:979][128]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.21.19:701][969]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.19:702][969]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.19:702][969]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.19:803][971]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.21.24:364][105]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.24:364][105]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.24:364][105]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.24:455][107]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.21.25:412][131]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.25:412][131]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.25:413][131]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.25:519][133]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.21.26:343][153]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.26:344][153]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.26:344][153]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.31:814][282]LogLinux: Scale at X=1261.000000, Y=663.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.31:864][284]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.21.35:490][439]LogLinux: Scale at X=1257.000000, Y=562.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.21.35:544][441]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.23.51:859][510]LogLinux: Scale at X=1302.000000, Y=623.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.23.51:898][512]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.23.56:065][679]LogLinux: Scale at X=1233.000000, Y=577.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.23.56:114][681]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.24.48:215][253]LogLinux: Scale at X=1256.000000, Y=621.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.24.48:265][255]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.24.48:918][293]LogLinux: Scale at X=1454.500000, Y=790.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.24.48:950][294]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.24.57:287][561]LogLinux: Scale at X=1219.000000, Y=554.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.24.57:353][563]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.25.37:602][903]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.25.37:602][903]LogSlate: Window 'Initial_draft_player_1_Blueprint' being destroyed
+[2019.08.01-17.25.37:612][903]LogSlate: Window 'Initial_draft_player_1_Blueprint' being destroyed
+[2019.08.01-17.25.38:824][936]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.08.01-17.25.38:828][936]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.25.38:829][936]LogLinux: Scale at X=655.000000, Y=323.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.25.38:830][936]LogLinux: Scale at X=960.000000, Y=540.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.25.38:892][936]LogLinux: Setting swap interval to 'Immediate'
+[2019.08.01-17.25.41:390][936]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.08.01-17.25.41:401][936]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.08.01-17.25.41:450][936]LogSlate: Window 'Verano_tecnologico - Unreal Editor' being destroyed
+[2019.08.01-17.25.41:538][937]Cmd: QUIT_EDITOR
+[2019.08.01-17.25.41:550][937]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.08.01-17.25.41:585][937]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.01-17.25.41:585][937]LogExit: Preparing to exit.
+[2019.08.01-17.25.42:071][937]LogExit: Editor shut down
+[2019.08.01-17.25.42:073][937]LogExit: Transaction tracking system shut down
+[2019.08.01-17.25.42:355][937]LogExit: Object subsystem successfully closed.
+[2019.08.01-17.25.42:370][937]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.01-17.25.42:376][937]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-17.25.42:376][937]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-17.25.42:376][937]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-17.25.42:376][937]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-17.25.42:376][937]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.01-17.25.42:376][937]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.01-17.25.42:493][937]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (570)
+[2019.08.01-17.25.42:493][937]LogModuleManager: Shutting down and abandoning module Voice (568)
+[2019.08.01-17.25.42:493][937]LogModuleManager: Shutting down and abandoning module BlueprintGraph (566)
+[2019.08.01-17.25.42:493][937]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (564)
+[2019.08.01-17.25.42:493][937]LogModuleManager: Shutting down and abandoning module SceneOutliner (562)
+[2019.08.01-17.25.42:493][937]LogModuleManager: Shutting down and abandoning module AddContentDialog (560)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module WidgetCarousel (559)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module EditorWidgets (556)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module CollectionManager (554)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module StatsViewer (552)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module FoliageEdit (550)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module LandscapeEditor (548)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module MeshPaintMode (546)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (544)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module ActorPickerMode (542)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module GeometryMode (540)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module TextureAlignMode (538)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module BspMode (536)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (534)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (532)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module AutomationWorker (530)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (528)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (526)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (524)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (522)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module WebMMedia (520)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (518)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module SequenceRecorder (517)
+[2019.08.01-17.25.42:494][937]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (514)
+[2019.08.01-17.25.42:495][937]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (512)
+[2019.08.01-17.25.42:495][937]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (510)
+[2019.08.01-17.25.42:495][937]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (508)
+[2019.08.01-17.25.42:495][937]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (506)
+[2019.08.01-17.25.42:495][937]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (504)
+[2019.08.01-17.25.42:495][937]LogModuleManager: Shutting down and abandoning module Media (503)
+[2019.08.01-17.25.42:500][937]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (500)
+[2019.08.01-17.25.42:500][937]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (498)
+[2019.08.01-17.25.42:500][937]LogModuleManager: Shutting down and abandoning module PlacementMode (497)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module MaterialEditor (496)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (490)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module SmartSnapping (488)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (486)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module CharacterAI (484)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module MeshPaint (480)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2019.08.01-17.25.42:501][937]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)
+[2019.08.01-17.25.42:559][937]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2019.08.01-17.25.42:559][937]LogModuleManager: Shutting down and abandoning module LinuxPlatformEditor (458)
+[2019.08.01-17.25.42:559][937]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (456)
+[2019.08.01-17.25.42:559][937]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (454)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (448)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module LocalizationService (447)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module HardwareTargeting (444)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (442)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module UndoHistory (440)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module XmlParser (438)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module Blutility (436)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (434)
+[2019.08.01-17.25.42:560][937]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (433)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (430)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module SettingsEditor (428)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module ProjectLauncher (426)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module SessionFrontend (424)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module ProfilerClient (422)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module DeviceManager (420)
+[2019.08.01-17.25.42:561][937]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (419)
+[2019.08.01-17.25.42:582][937]LogModuleManager: Shutting down and abandoning module AutomationController (416)
+[2019.08.01-17.25.42:583][937]LogModuleManager: Shutting down and abandoning module AutomationWindow (414)
+[2019.08.01-17.25.42:583][937]LogModuleManager: Shutting down and abandoning module Layers (412)
+[2019.08.01-17.25.42:583][937]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (410)
+[2019.08.01-17.25.42:583][937]LogModuleManager: Shutting down and abandoning module DetailCustomizations (408)
+[2019.08.01-17.25.42:583][937]LogModuleManager: Shutting down and abandoning module PackagesDialog (406)
+[2019.08.01-17.25.42:584][937]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (404)
+[2019.08.01-17.25.42:585][937]LogModuleManager: Shutting down and abandoning module Persona (402)
+[2019.08.01-17.25.42:585][937]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (401)
+[2019.08.01-17.25.42:585][937]LogModuleManager: Shutting down and abandoning module AnimGraph (399)
+[2019.08.01-17.25.42:585][937]LogModuleManager: Shutting down and abandoning module Kismet (396)
+[2019.08.01-17.25.42:605][937]LogModuleManager: Shutting down and abandoning module GraphEditor (394)
+[2019.08.01-17.25.42:605][937]LogModuleManager: Shutting down and abandoning module ClassViewer (392)
+[2019.08.01-17.25.42:605][937]LogModuleManager: Shutting down and abandoning module Toolbox (390)
+[2019.08.01-17.25.42:605][937]LogModuleManager: Shutting down and abandoning module DesktopPlatform (389)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module LevelSequence (376)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2019.08.01-17.25.42:606][937]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module NavigationSystem (353)
+[2019.08.01-17.25.42:607][937]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (350)
+[2019.08.01-17.25.42:608][937]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2019.08.01-17.25.42:643][937]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2019.08.01-17.25.42:643][937]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2019.08.01-17.25.42:643][937]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2019.08.01-17.25.42:643][937]LogModuleManager: Shutting down and abandoning module CableComponent (340)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module EditableMesh (338)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module AndroidPermission (336)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module AudioCapture (334)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (332)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (330)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (328)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module SteamVRController (326)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (324)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (323)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module ImgMedia (320)
+[2019.08.01-17.25.42:644][937]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2019.08.01-17.25.42:645][937]LogModuleManager: Shutting down and abandoning module LinearTimecode (316)
+[2019.08.01-17.25.42:645][937]LogModuleManager: Shutting down and abandoning module KDevelopSourceCodeAccess (314)
+[2019.08.01-17.25.42:645][937]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2019.08.01-17.25.42:645][937]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.08.01-17.25.42:645][937]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2019.08.01-17.25.42:645][937]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module CodeLiteSourceCodeAccess (296)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (290)
+[2019.08.01-17.25.42:646][937]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (288)
+[2019.08.01-17.25.42:647][937]LogModuleManager: Shutting down and abandoning module Paper2DEditor (286)
+[2019.08.01-17.25.42:647][937]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (284)
+[2019.08.01-17.25.42:647][937]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (282)
+[2019.08.01-17.25.42:647][937]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (280)
+[2019.08.01-17.25.42:647][937]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (278)
+[2019.08.01-17.25.42:647][937]LogModuleManager: Shutting down and abandoning module CryptoKeys (276)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module PluginBrowser (274)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (272)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module AppleVisionBlueprintSupport (270)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module AppleVision (268)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (266)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (265)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module AlembicImporter (262)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module AlembicLibrary (261)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module GeometryCache (260)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (259)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module BackChannel (254)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (252)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module AppleImageUtils (250)
+[2019.08.01-17.25.42:648][937]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (248)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module VariantManagerContent (246)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module Verano_tecnologico (244)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (242)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module SignificanceManager (240)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (238)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module PhysXVehicles (236)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (234)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module AISupportModule (232)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module ActorSequence (230)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module NullSourceCodeAccess (228)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module AnimationSharing (226)
+[2019.08.01-17.25.42:649][937]LogModuleManager: Shutting down and abandoning module Paper2D (224)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (222)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (220)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (218)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module FacialAnimation (216)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (214)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module TreeMap (213)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module DataValidation (210)
+[2019.08.01-17.25.42:650][937]LogModuleManager: Shutting down and abandoning module LevelEditor (209)
+[2019.08.01-17.25.42:653][937]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (208)
+[2019.08.01-17.25.42:653][937]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (206)
+[2019.08.01-17.25.42:654][937]LogModuleManager: Shutting down and abandoning module MainFrame (204)
+[2019.08.01-17.25.42:654][937]LogModuleManager: Shutting down and abandoning module HotReload (203)
+[2019.08.01-17.25.42:655][937]LogModuleManager: Shutting down and abandoning module ContentBrowser (199)
+[2019.08.01-17.25.42:657][937]LogModuleManager: Shutting down and abandoning module TcpMessaging (196)
+[2019.08.01-17.25.42:758][937]LogModuleManager: Shutting down and abandoning module UdpMessaging (194)
+[2019.08.01-17.25.42:859][937]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (192)
+[2019.08.01-17.25.42:859][937]LogModuleManager: Shutting down and abandoning module PacketHandler (190)
+[2019.08.01-17.25.42:859][937]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (188)
+[2019.08.01-17.25.42:859][937]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (186)
+[2019.08.01-17.25.42:859][937]LogModuleManager: Shutting down and abandoning module MediaAssets (184)
+[2019.08.01-17.25.42:859][937]LogModuleManager: Shutting down and abandoning module Overlay (182)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module OverlayEditor (181)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module VREditor (178)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module StringTableEditor (176)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (174)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (172)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module FunctionalTesting (170)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (168)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (167)
+[2019.08.01-17.25.42:860][937]LogModuleManager: Shutting down and abandoning module UMG (164)
+[2019.08.01-17.25.42:861][937]LogModuleManager: Shutting down and abandoning module UMGEditor (163)
+[2019.08.01-17.25.42:861][937]LogModuleManager: Shutting down and abandoning module Sequencer (162)
+[2019.08.01-17.25.42:861][937]LogModuleManager: Shutting down and abandoning module MessageLog (159)
+[2019.08.01-17.25.42:861][937]LogModuleManager: Shutting down and abandoning module SlateReflector (154)
+[2019.08.01-17.25.42:862][937]LogModuleManager: Shutting down and abandoning module Slate (152)
+[2019.08.01-17.25.42:862][937]LogModuleManager: Shutting down and abandoning module EditorStyle (150)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module UnrealEd (148)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module MRMesh (146)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module Messaging (144)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (142)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (140)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module AudioMixerSDL (138)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module Networking (136)
+[2019.08.01-17.25.42:867][937]LogModuleManager: Shutting down and abandoning module Core (134)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module KismetCompiler (132)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module MeshUtilities (130)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (129)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (128)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (127)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (125)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module MaterialBaking (121)
+[2019.08.01-17.25.42:868][937]LogModuleManager: Shutting down and abandoning module DerivedDataCache (116)
+[2019.08.01-17.25.42:896][937]LogDerivedDataCache: Shutdown
+[2019.08.01-17.25.42:896][937]LogModuleManager: Shutting down and abandoning module TargetPlatform (114)
+[2019.08.01-17.25.42:896][937]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (113)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (111)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (109)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (107)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (105)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (103)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (101)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (99)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module ImageWrapper (98)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (95)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (93)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (91)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (89)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (87)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (85)
+[2019.08.01-17.25.42:897][937]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (83)
+[2019.08.01-17.25.42:898][937]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (81)
+[2019.08.01-17.25.42:898][937]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (79)
+[2019.08.01-17.25.42:917][937]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (77)
+[2019.08.01-17.25.42:917][937]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (75)
+[2019.08.01-17.25.42:917][937]LogModuleManager: Shutting down and abandoning module VulkanRHI (72)
+[2019.08.01-17.25.42:917][937]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2019.08.01-17.25.42:917][937]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2019.08.01-17.25.42:918][937]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (62)
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module LinuxDeviceProfileSelector (60)
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2019.08.01-17.25.42:919][937]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (56)
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2019.08.01-17.25.42:919][937]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2019.08.01-17.25.42:920][937]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2019.08.01-17.25.42:920][937]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2019.08.01-17.25.42:920][937]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.01-17.25.42:920][937]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B05F04B8A-08D7-1675-60BF-52041435C3DD%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.22.3-0%2B%2B%2BUE4%2BRelease-4.22&UserID=0b026b8905d440db9c42b4fd33d6dcd4-000003e8%7C%7C0b026b8905d440db9c42b4fd33d6dcd4&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2019.08.01-17.25.42:949][937]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2019.08.01-17.25.42:952][937]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.08.01-17.25.42:954][937]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.08.01-17.25.42:954][937]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.08.01-17.25.42:954][937]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.08.01-17.25.42:954][937]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.08.01-17.25.42:954][937]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2019.08.01-17.25.42:955][937]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.08.01-17.25.42:955][937]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.01-17.25.42:958][937]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.01-17.25.42:960][937]LogExit: Exiting.
+[2019.08.01-17.25.42:960][937]LogInit: Tearing down SDL.
+[2019.08.01-17.25.43:008][937]Log file closed, 08/01/19 12:25:43

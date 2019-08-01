@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="WebRTCProxy">
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/WebRTCProxy.Target.cs" />
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/WebRTCProxy.Build.cs" />
+  <VirtualDirectory Name="src">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/AsyncConnection.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/AsyncConnection.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/CirrusConnection.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/CirrusConnection.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/ClientSession.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/ClientSession.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/CmdLine.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/CmdLine.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Conductor.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Conductor.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Console.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Console.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/CrashDetection.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/CrashDetection.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/FileLogOutput.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/FileLogOutput.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/H264FrameBuffer.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Logging.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Logging.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/NetworkAudioCapturer.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/NetworkAudioCapturer.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/NetworkVideoCapturer.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/NetworkVideoCapturer.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/ScopeGuard.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/Semaphore.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/SetSessionDescriptionObserver.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/SharedQueue.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/StringUtils.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/StringUtils.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/TimeUtils.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/TimeUtils.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/UE4Connection.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/UE4Connection.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/VideoEncoder.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/VideoEncoder.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCLogging.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCLogging.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCProxy.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCProxyCommon.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCProxyCommon.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCProxyPCH.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/WebRTCProxyPCH.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/PixelStreaming/WebRTCProxy/src/targetver.h" />
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-Debug" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe WebRTCProxy Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-DebugGame" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe WebRTCProxy Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe WebRTCProxy Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe WebRTCProxy Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-Shipping" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe WebRTCProxy Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-Test" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./WebRTCProxy-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe WebRTCProxy Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe WebRTCProxy Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

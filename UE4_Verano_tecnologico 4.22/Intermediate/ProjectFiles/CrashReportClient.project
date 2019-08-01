@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="CrashReportClient">
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/CrashReportClient.Target.cs" />
+  <VirtualDirectory Name="Config">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Programs/CrashReportClient/Config/DefaultEngine.ini" />
+  </VirtualDirectory>
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/CrashReportClient.Build.cs" />
+  <VirtualDirectory Name="Private">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashDescription.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashDescription.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportAnalytics.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportAnalytics.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClient.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClient.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientApp.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientConfig.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientConfig.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientStyle.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientStyle.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientUnattended.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportClientUnattended.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashReportUtil.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashUpload.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/CrashUpload.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/GenericErrorReport.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/GenericErrorReport.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/MainLoopTiming.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/MainLoopTiming.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/PendingReports.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/PendingReports.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/PlatformErrorReport.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/SCrashReportClient.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/SCrashReportClient.h" />
+    <VirtualDirectory Name="Linux">
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Linux/CrashReportClientMainLinux.cpp" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Linux/LinuxErrorReport.h" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Mac">
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Mac/CrashReportClientMainMac.cpp" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Mac/MacErrorReport.cpp" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Mac/MacErrorReport.h" />
+    </VirtualDirectory>
+    <VirtualDirectory Name="Windows">
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Windows/CrashReportClientMainWindows.cpp" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Windows/WindowsErrorReport.cpp" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Private/Windows/WindowsErrorReport.h" />
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Public">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/CrashReportClient/Public/CrashReportClientApp.h" />
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-Debug" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe CrashReportClient Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe CrashReportClient Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-DebugGame" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe CrashReportClient Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe CrashReportClient Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe CrashReportClient Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe CrashReportClient Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-Shipping" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe CrashReportClient Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe CrashReportClient Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-Test" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./CrashReportClient-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe CrashReportClient Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe CrashReportClient Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe CrashReportClient Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>

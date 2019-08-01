@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{000459DD-08D7-15E8-EF77-054C63BF1007}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Verano_tecnologico",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

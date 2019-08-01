@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="UnrealHeaderTool">
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/UnrealHeaderTool.Target.cs" />
+  <VirtualDirectory Name="Config">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Programs/UnrealHeaderTool/Config/DefaultEngine.ini" />
+  </VirtualDirectory>
+  <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/UnrealHeaderTool.Build.cs" />
+  <VirtualDirectory Name="Private">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/BaseParser.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/BaseParser.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ClassDeclarationMetaData.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ClassDeclarationMetaData.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ClassMaps.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ClassMaps.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Classes.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Classes.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/CodeGenerator.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/FileLineException.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/FileLineException.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/GeneratedCodeVersion.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/HeaderParser.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/HeaderParser.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/HeaderProvider.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/HeaderProvider.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/IScriptGeneratorPluginInterface.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Manifest.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Manifest.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/NativeClassExporter.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ParserClass.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ParserClass.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ParserHelper.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/ParserHelper.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Scope.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Scope.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/SimplifiedParsingClassInfo.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/StringUtils.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/StringUtils.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnderlyingEnumType.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnrealHeaderTool.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnrealHeaderToolGlobals.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnrealHeaderToolMain.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnrealSourceFile.cpp" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnrealSourceFile.h" />
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/UnrealTypeDefinitionInfo.h" />
+    <VirtualDirectory Name="Specifiers">
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Specifiers/CheckedMetadataSpecifiers.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Specifiers/FunctionSpecifiers.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Specifiers/InterfaceSpecifiers.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Specifiers/SpecifierArrays.cpp" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Specifiers/StructSpecifiers.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Private/Specifiers/VariableSpecifiers.h" />
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Public">
+    <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Public/IScriptGeneratorPluginInterface.h" />
+  </VirtualDirectory>
+  <VirtualDirectory Name="Resources">
+    <VirtualDirectory Name="UHTDebugging">
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/EnumOnlyHeader.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/StructOnlyHeader.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/TestDeprecatedObject.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/TestInterface.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/TestInterfaceObject.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/TestObject.h" />
+      <File Name="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Source/Programs/UnrealHeaderTool/Resources/UHTDebugging/TestObjectSerializers.h" />
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Settings>
+    <Configuration Name="Debug">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-Debug" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-Debug" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealHeaderTool Linux Debug -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="DebugGame">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-DebugGame" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-DebugGame" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealHeaderTool Linux DebugGame -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Development">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealHeaderTool Linux Development -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Shipping">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-Shipping" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-Shipping" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealHeaderTool Linux Shipping -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <Configuration Name="Test">
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-Test" />
+      <General WorkingDirectory="/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/Linux" Command="./UnrealHeaderTool-Linux-Test" />
+      <CustomBuild Enabled="yes">
+        <WorkingDirectory>/home/jorge/Descargas/Paquetes/UnrealEngine/Engine/Binaries/DotNET</WorkingDirectory>
+        <BuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</BuildCommand>
+        <CleanCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean</CleanCommand>
+        <RebuildCommand>mono UnrealBuildTool.exe UnrealHeaderTool Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject" -clean
+mono UnrealBuildTool.exe UnrealHeaderTool Linux Test -project="/home/jorge/MisCursos/MiDiosGitHub/VeranoTecnologico/UE4_Verano_tecnologico 4.22/Verano_tecnologico.uproject"</RebuildCommand>
+      </CustomBuild>
+    </Configuration>
+    <GlobalSettings />
+  </Settings>
+  <GlobalSettings />
+</CodeLite_Project>
